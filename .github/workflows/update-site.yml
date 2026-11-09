@@ -1,0 +1,78 @@
+# Keeps www.alfarash.co.uk in step with the eBay shop.
+# Every morning (and whenever a file in this repository changes, or when you press "Run workflow" on the Actions tab)
+# it reads the live eBay listings, rebuilds the website and publishes it to GitHub Pages.
+# New listings appear, ended ones disappear, and titles, prices and photos follow eBay.
+# If eBay can't be read, the run fails (GitHub emails you) and the website stays as it was.
+name: Update website from eBay
+
+on:
+  schedule:
+    - cron: "23 5 * * *"        # every day at 05:23 UTC (05:23 in winter, 06:23 in summer UK time)
+  workflow_dispatch:            # "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write               # to save data/live.tsv (a record of each day's listings)
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Read the live listings from eBay
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: |
+          if [ -z "$EBAY_CLIENT_ID" ] || [ -z "$EBAY_CLIENT_SECRET" ]; then
+            echo "::warning::eBay keys not added yet (Settings > Secrets and variables > Actions), so the site is built from the saved list in data/live.tsv"
+          else
+            python3 scripts/fetch_ebay.py
+          fi
+
+      - name: Build the website
+        run: |
+          python3 build.py
+          mkdir -p _site
+          cp out/noir.html _site/index.html
+          for f in CNAME robots.txt sitemap.xml favicon.ico favicon.png favicon.svg; do [ -f "$f" ] && cp "$f" _site/ || true; done
+
+      - name: Save today's listings to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live.tsv
+          if git diff --cached --quiet; then
+            echo "No listing changes since last time"
+          else
+            git commit -m "Update listings from eBay"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
