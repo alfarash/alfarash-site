@@ -3,21 +3,21 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Al Farash Home Decor | Luxury Velvet Cushion Covers, Manchester</title>
-<meta name="description" content="Luxury crushed-velvet cushion covers in Greek key, round Greek key, Moroccan geometric and diamante crystal designs, plus matching curtains and table runners. Sold on eBay from Manchester since 2012.">
+<title>Al Farash Home Decor | Velvet Cushions, Curtains &amp; Table Linen</title>
+<meta name="description" content="Luxury velvet home decor from Manchester: cushion covers in Greek key, Moroccan geometric and diamante crystal designs, made-to-measure curtain and blind sets, curtains, table runners, placemats and bed throw sets. Sold on eBay since 2012.">
 <meta name="color-scheme" content="dark light">
 <meta name="theme-color" content="#0f0e10">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230f0e10'/%3E%3Ctext x='32' y='43' font-family='Georgia,serif' font-size='30' text-anchor='middle' fill='%23d6b26a'%3EAF%3C/text%3E%3C/svg%3E">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Al Farash Home Decor">
 <meta property="og:locale" content="en_GB">
-<meta property="og:title" content="Al Farash Home Decor | Luxury Velvet Cushion Covers">
-<meta property="og:description" content="Greek key, Moroccan geometric and diamante velvet cushion covers, curtains and table runners. Sold on eBay from Manchester since 2012.">
+<meta property="og:title" content="Al Farash Home Decor | Luxury Velvet Home Decor">
+<meta property="og:description" content="Velvet cushion covers, curtains and blinds, table runners, placemats and bed throws in Greek key, Moroccan and diamante designs. Sold on eBay from Manchester since 2012.">
 <meta property="og:image" content="https://i.ebayimg.com/images/g/gfIAAeSws9pqu1bF/s-l960.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "OnlineStore", "name": "Al Farash Home Decor",
- "description": "Luxury crushed-velvet cushion covers, curtains and table runners, sold on eBay from Manchester.",
+ "description": "Luxury velvet home decor: cushion covers, curtain and blind sets, curtains, table runners, placemats and bed throw sets, sold on eBay from Manchester.",
  "image": "https://i.ebayimg.com/images/g/gfIAAeSws9pqu1bF/s-l960.jpg",
  "address": {"@type": "PostalAddress", "addressLocality": "Manchester", "addressCountry": "GB"},
  "sameAs": ["https://www.ebay.co.uk/str/alfarashhomedecor"]}
@@ -125,14 +125,21 @@ html:not(.js) .theme-toggle { display: none; }
 .btn.line { background: transparent; color: var(--gold); }
 .btn.line:hover { background: var(--gold); color: var(--on-gold); }
 .btn.sm { padding: 9px 16px; font-size: .74rem; }
-@media (max-width: 820px) { .head nav { display: none; } .head .wrap { grid-template-columns: 1fr auto; } .logo { text-align: left; } }
+/* Phones and small tablets: the menu moves to its own row under the logo (it scrolls sideways if the screen is very narrow) */
+@media (max-width: 820px) {
+  .head .wrap { grid-template-columns: 1fr auto; row-gap: 0; padding-bottom: 0; }
+  .logo { text-align: left; grid-row: 1; grid-column: 1; }
+  .head .right { grid-row: 1; grid-column: 2; }
+  .head nav { grid-row: 2; grid-column: 1 / -1; justify-content: space-between; gap: 18px; margin-top: 12px; border-top: 1px solid var(--line); overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; font-size: .86rem; }
+  .head nav::-webkit-scrollbar { display: none; }
+  .head nav a { padding: 11px 0; }
+}
 
 /* Hero: one large cushion, big italic type. It sits inside the same 1440px frame as the rest of the page and never grows taller than the screen */
 .hero { display: grid; grid-template-columns: 1.05fr 1fr; max-width: 1440px; margin: 0 auto; }
 .hero-img { position: relative; background: var(--panel); height: 620px; height: min(78vh, 720px); min-height: 380px; max-width: 100%; overflow: hidden; }
 .hero-img img { width: 100%; height: 100%; object-fit: cover; }
 .hero-img .price-tag { position: absolute; right: 18px; bottom: 18px; background: var(--bg); padding: 10px 14px; font-size: .82rem; border: 1px solid var(--line); }
-.hero-img .price-tag b { font-family: var(--display); color: var(--gold); font-size: 1.1rem; font-weight: 400; margin-left: 6px; }
 .hero-copy { display: flex; flex-direction: column; justify-content: center; gap: 22px; padding: 48px 56px; padding: 48px max(20px, min(5vw, 64px)); }
 /* On large monitors line the hero up with the rest of the page's content edges */
 @media (min-width: 1360px) { .hero { max-width: 1280px; } }
@@ -175,7 +182,6 @@ section { padding-top: 72px; padding-bottom: 72px; }
 .rail .ph { aspect-ratio: 1; background: var(--panel); overflow: hidden; max-width: 100%; }
 .rail img { width: 100%; height: 100%; object-fit: cover; }
 .rail h3 { font-family: var(--body); font-size: .9rem; font-weight: 400; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.rail b { font-family: var(--display); font-weight: 400; color: var(--gold); font-size: 1.15rem; }
 
 /* Catalogue with sidebar */
 #shop { border-top: 1px solid var(--line); }
@@ -244,7 +250,6 @@ section { padding-top: 72px; padding-bottom: 72px; }
 .card:hover .over, .card:focus-visible .over { transform: none; }
 .card h3 { font-family: var(--body); font-size: .92rem; font-weight: 400; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.9em; }
 .card .meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
-.card .price { font-family: var(--display); color: var(--gold); font-size: 1.3rem; font-variant-numeric: tabular-nums; }
 .card .size { font-size: .8rem; color: var(--muted); text-align: right; }
 .empty { padding: 60px 0; color: var(--muted); }
 .more { display: flex; justify-content: center; margin-top: 44px; }
@@ -313,7 +318,6 @@ section { padding-top: 72px; padding-bottom: 72px; }
 .look-item img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
 .look-item:hover img { transform: scale(1.05); }
 .look-type { font-size: .76rem; color: var(--muted); line-height: 1.3; }
-.look-item b { font-family: var(--display); font-weight: 400; color: var(--gold); font-size: 1.02rem; }
 :root[data-theme="light"] .look { --gold: var(--gold-deep); }   /* the set cards sit on the darker panel colour, so their gold text goes a shade deeper */
 .look .btn { justify-self: start; }
 @media (max-width: 900px) { .looks { grid-template-columns: 1fr; } }
@@ -331,6 +335,10 @@ section { padding-top: 72px; padding-bottom: 72px; }
 .about { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; }
 .about h2 { font-size: 3rem; font-size: clamp(2.2rem, 4.4vw, 3.6rem); margin: 12px 0 22px; }
 .about p { color: var(--muted); max-width: 54ch; margin: 0 0 14px; }
+.btn .ico { width: 18px; height: 18px; flex: none; }
+/* WhatsApp button in WhatsApp green (dark text keeps it readable on the bright green) */
+.btn.wa { background: #25d366; border-color: #25d366; color: #0b1f14; }
+.btn.wa:hover { background: #1ebe5a; border-color: #1ebe5a; color: #0b1f14; }
 .about .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .about .pair a { display: block; aspect-ratio: 4/5; overflow: hidden; background: var(--panel); max-width: 100%; }
 .about .pair a:last-child { margin-top: 40px; }
@@ -375,7 +383,7 @@ section.flush-top { padding-top: 0; }
 
 <header class="head">
   <div class="wrap">
-    <nav aria-label="Main"><a href="#shop" data-goto-type="cushions">Cushion covers</a><a href="#colours">By colour</a><a href="#fabric">Fabric &amp; care</a><a href="#about">About</a></nav>
+    <nav aria-label="Main"><a href="#shop" data-goto-type="all">Shop</a><a href="#colours">By colour</a><a href="#fabric">Fabric &amp; care</a><a href="#about">About</a></nav>
     <a class="logo" href="#top"><b>Al Farash</b><span>Home Decor</span></a>
     <div class="right">
       <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to light mode">
@@ -394,13 +402,13 @@ section.flush-top { padding-top: 0; }
   <div class="hero">
     <a class="hero-img" data-link>
       <img data-pid="333854490528" data-size="1600" sizes="(max-width: 900px) 100vw, 720px" alt="" width="1600" height="1600" fetchpriority="high">
-      <span class="price-tag">Black &amp; gold Greek key, 24 in <b data-price-of="333854490528"></b></span>
+      <span class="price-tag">Black &amp; gold Greek key, 24 in</span>
     </a>
     <div class="hero-copy">
-      <div class="kicker">The velvet collection</div>
+      <div class="kicker">Luxury velvet home decor</div>
       <h1>Dressed in <em>velvet</em>, finished in gold</h1>
-      <p>Crushed-velvet cushion covers with Greek key borders, round Greek key medallions and diamante crystal stones. Browse all <span data-count="all"></span> designs, each one ready to buy on eBay.</p>
-      <div class="row"><a class="btn" href="#shop" data-goto-type="cushions">Shop cushion covers</a><a class="btn line" href="#colours">Shop by colour</a></div>
+      <p>Crushed-velvet cushion covers in Greek key, Moroccan and diamante crystal designs, with curtain and blind sets made to measure, curtains, table runners, placemats and bed throw sets to match. Browse all <span data-count="all"></span> pieces, each one ready to buy on eBay.</p>
+      <div class="row"><a class="btn" href="#shop" data-goto-type="cushions">Cushion covers</a><a class="btn line" href="#shop" data-goto-type="curtains">Curtains &amp; blinds</a><a class="btn line" href="#shop" data-goto-type="table">Table linen</a></div>
       <ul class="facts">
         <li><b>3,700+</b><span>items sold</span></li>
         <li><b>100%</b><span>positive feedback</span></li>
@@ -449,7 +457,7 @@ section.flush-top { padding-top: 0; }
           <div class="tl-right">
             <button class="filter-toggle" id="filters-open" type="button" aria-controls="filters" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 6h18M6 12h12M10 18h4"/></svg>Filters<span id="filters-n"></span></button>
             <label class="sortbox"><span>Sort by</span>
-              <select id="sort" autocomplete="off"><option value="f">Featured</option><option value="pa">Price: low to high</option><option value="pd">Price: high to low</option><option value="n">Newest listings</option></select>
+              <select id="sort" autocomplete="off"><option value="f">Featured</option><option value="n">Newest listings</option></select>
             </label>
           </div>
         </div>
@@ -474,25 +482,25 @@ section.flush-top { padding-top: 0; }
       <article class="look" aria-labelledby="look-black-gold">
         <h3 id="look-black-gold">Black &amp; gold</h3>
         <p class="muted">Black velvet with gold Greek keys, from cushions to curtains and the dining table.</p>
-        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333854490528" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333854490528"></span><span class="look-type">Cushion cover</span><b data-price-of="333854490528"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="333765278376" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765278376"></span><span class="look-type">Cushion cover</span><b data-price-of="333765278376"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="333896552872" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333896552872"></span><span class="look-type">Curtain &amp; blind set</span><b data-price-of="333896552872"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="336850979694" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850979694"></span><span class="look-type">Table set</span><b data-price-of="336850979694"></b></a></div>
+        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333854490528" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333854490528"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333765278376" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765278376"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333896552872" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333896552872"></span><span class="look-type">Curtain &amp; blind set</span></a><a data-link class="look-item"><span class="ph"><img data-pid="336850979694" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850979694"></span><span class="look-type">Table set</span></a></div>
         <a class="btn line sm" href="#shop" data-goto-col="black" data-goto-det="gold">Shop all black &amp; gold</a>
       </article>
       <article class="look" aria-labelledby="look-black-silver">
         <h3 id="look-black-silver">Black &amp; silver</h3>
         <p class="muted">Crisp silver keys and medallions on black, for a cooler, modern room.</p>
-        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333895738546" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333895738546"></span><span class="look-type">Cushion cover</span><b data-price-of="333895738546"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="333765249870" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765249870"></span><span class="look-type">Cushion cover</span><b data-price-of="333765249870"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="333896549134" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333896549134"></span><span class="look-type">Curtain &amp; blind set</span><b data-price-of="333896549134"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="336850938790" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850938790"></span><span class="look-type">Table set</span><b data-price-of="336850938790"></b></a></div>
+        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333895738546" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333895738546"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333765249870" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765249870"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333896549134" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333896549134"></span><span class="look-type">Curtain &amp; blind set</span></a><a data-link class="look-item"><span class="ph"><img data-pid="336850938790" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850938790"></span><span class="look-type">Table set</span></a></div>
         <a class="btn line sm" href="#shop" data-goto-col="black" data-goto-det="silver">Shop all black &amp; silver</a>
       </article>
       <article class="look" aria-labelledby="look-ivory-gold">
         <h3 id="look-ivory-gold">Ivory &amp; gold</h3>
         <p class="muted">Soft cream velvet and warm gold for a light, classic look.</p>
-        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333948347360" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333948347360"></span><span class="look-type">Cushion cover</span><b data-price-of="333948347360"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="333765209877" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765209877"></span><span class="look-type">Cushion cover</span><b data-price-of="333765209877"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="336778677719" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336778677719"></span><span class="look-type">Curtain &amp; blind set</span><b data-price-of="336778677719"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="336850964384" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850964384"></span><span class="look-type">Table set</span><b data-price-of="336850964384"></b></a></div>
+        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333948347360" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333948347360"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333765209877" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765209877"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="336778677719" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336778677719"></span><span class="look-type">Curtain &amp; blind set</span></a><a data-link class="look-item"><span class="ph"><img data-pid="336850964384" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850964384"></span><span class="look-type">Table set</span></a></div>
         <a class="btn line sm" href="#shop" data-goto-col="ivory" data-goto-det="gold">Shop all ivory &amp; gold</a>
       </article>
       <article class="look" aria-labelledby="look-navy-silver">
         <h3 id="look-navy-silver">Navy &amp; silver</h3>
         <p class="muted">Deep navy velvet with silver detail, from sofa to dining table.</p>
-        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333815852166" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333815852166"></span><span class="look-type">Cushion cover</span><b data-price-of="333815852166"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="333889870615" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333889870615"></span><span class="look-type">Cushion cover</span><b data-price-of="333889870615"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="333235086469" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333235086469"></span><span class="look-type">Curtain &amp; blind set</span><b data-price-of="333235086469"></b></a><a data-link class="look-item"><span class="ph"><img data-pid="336849754627" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336849754627"></span><span class="look-type">Table runner</span><b data-price-of="336849754627"></b></a></div>
+        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333815852166" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333815852166"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333889870615" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333889870615"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333235086469" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333235086469"></span><span class="look-type">Curtain &amp; blind set</span></a><a data-link class="look-item"><span class="ph"><img data-pid="336849754627" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336849754627"></span><span class="look-type">Table runner</span></a></div>
         <a class="btn line sm" href="#shop" data-goto-col="navy" data-goto-det="silver">Shop all navy &amp; silver</a>
       </article>
     </div>
@@ -515,7 +523,7 @@ section.flush-top { padding-top: 0; }
         <div class="kicker">About Al Farash</div>
         <h2 id="about-h">Royal interiors, <em>everyday</em> prices</h2>
         <p>Al Farash Home Decor is based in Manchester and started with one idea: bring the richness of royal interiors into everyday homes, at a fair price.</p>
-        <p>Our signature is the Greek key, set in soft crushed velvet with gold, silver and crystal detail. We also offer matching curtain and blind sets and table runners.</p>
+        <p>Our signature is the Greek key, set in soft crushed velvet with gold, silver and crystal detail. Alongside our cushion covers we make curtain and blind sets to measure, plus curtains, table runners, placemat sets and bed throw sets, so a whole room can match.</p>
         <p>We have sold on eBay since 2012, with 100% positive feedback from more than 3,700 sales.</p>
       </div>
       <div class="pair">
@@ -530,12 +538,12 @@ section.flush-top { padding-top: 0; }
   <section class="wrap contact" aria-labelledby="contact-h">
     <div class="kicker">Get in touch</div>
     <h2 id="contact-h">Questions about a <em>design</em>?</h2>
-    <p class="muted contact-note">Message us through eBay about any design, stock or delivery.</p>
-    <div class="row"><a class="btn" href="https://www.ebay.co.uk/cnt/intermediatedFAQ?requested=al-farash" target="_blank" rel="noopener">Message us on eBay</a><a class="btn line" href="https://www.ebay.co.uk/str/alfarashhomedecor" target="_blank" rel="noopener">Visit the eBay shop</a></div>
+    <p class="muted contact-note">Ask about sizes, stock, delivery or a custom order on WhatsApp, or message us through eBay.</p>
+    <div class="row"><a class="btn wa" href="https://wa.me/447393573671?text=Hello%20Al%20Farash%2C%20I%20have%20a%20question%20about%20" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M4 20l1.3-3.9A8 8 0 1 1 8 18.8L4 20Z"/></svg>WhatsApp us<span class="vh"> (opens WhatsApp)</span></a><a class="btn line" href="https://www.ebay.co.uk/cnt/intermediatedFAQ?requested=al-farash" target="_blank" rel="noopener">Message us on eBay</a><a class="btn line" href="https://www.ebay.co.uk/str/alfarashhomedecor" target="_blank" rel="noopener">Visit the eBay shop</a></div>
   </section>
 </main>
 
-<footer><div class="wrap"><span>© <span id="yr"></span> Al Farash Home Decor · Manchester</span><span>Prices as listed on eBay in October 2026. The eBay listing always shows the current price.</span></div></footer>
+<footer><div class="wrap"><span>© <span id="yr"></span> Al Farash Home Decor · Manchester</span></div></footer>
 
 <script>
 window.DESIGN = {
@@ -547,7 +555,7 @@ window.DESIGN = {
     <a class="card" href="${URL_FOR(p.id)}" target="_blank" rel="noopener">
       <div class="ph"><img src="${IMG(p.img)}" srcset="${SRCSET(p.img)}" sizes="(max-width: 520px) 46vw, (max-width: 1100px) 42vw, 320px" alt="" loading="lazy" decoding="async" width="500" height="500"><span class="over">View on eBay</span></div>
       <h3>${esc(p.t)}</h3>
-      <div class="meta"><span class="price">${gbp(p.p)}</span><span class="size">${sizeLabel(p)}</span></div>
+      <div class="meta"><span class="size">${sizeLabel(p)}</span></div>
       <span class="vh">(opens eBay in a new tab)</span>
     </a>`,
   // After every filter change: update the phone "Filters" button and the panel's "Show results" button
@@ -634,7 +642,7 @@ document.querySelectorAll('img').forEach(img => { if (img.complete && img.getAtt
 })();
 // Featured rail: customer favourites first (the default), or the newest listings
 (function () {
-  const railItem = p => `<a href="${URL_FOR(p.id)}" target="_blank" rel="noopener"><div class="ph"><img src="${IMG(p.img)}" srcset="${SRCSET(p.img)}" sizes="(max-width: 520px) 60vw, 300px" alt="" loading="lazy" decoding="async" width="500" height="500"></div><h3>${esc(p.t)}</h3><b>${gbp(p.p)}</b><span class="vh">(opens eBay in a new tab)</span></a>`;
+  const railItem = p => `<a href="${URL_FOR(p.id)}" target="_blank" rel="noopener"><div class="ph"><img src="${IMG(p.img)}" srcset="${SRCSET(p.img)}" sizes="(max-width: 520px) 60vw, 300px" alt="" loading="lazy" decoding="async" width="500" height="500"></div><h3>${esc(p.t)}</h3><span class="vh">(opens eBay in a new tab)</span></a>`;
   const FAV = PRODUCTS.filter(p => p.f < 999 && p.c !== 'curtains').sort((a, b) => a.f - b.f)
     .concat(PRODUCTS.filter(p => p.cs.includes('stones') && p.f === 999).slice(0, 4));
   const NEW = PRODUCTS.slice().sort((a, b) => b.id.localeCompare(a.id)).slice(0, 12);   // eBay item numbers rise over time
