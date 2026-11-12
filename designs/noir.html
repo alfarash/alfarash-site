@@ -139,7 +139,19 @@ html:not(.js) .theme-toggle { display: none; }
 .hero { display: grid; grid-template-columns: 1.05fr 1fr; max-width: 1440px; margin: 0 auto; }
 .hero-img { position: relative; background: var(--panel); height: 620px; height: min(78vh, 720px); min-height: 380px; max-width: 100%; overflow: hidden; }
 .hero-img img { width: 100%; height: 100%; object-fit: cover; }
-.hero-img .price-tag { position: absolute; right: 18px; bottom: 18px; background: var(--bg); padding: 10px 14px; font-size: .82rem; border: 1px solid var(--line); }
+.hero-img .price-tag { position: absolute; right: 18px; bottom: 18px; background: var(--bg); padding: 10px 14px; font-size: .82rem; border: 1px solid var(--line); max-width: calc(100% - 150px); }
+/* Hero slideshow: pieces fade into each other; dots and a pause button sit bottom-left */
+.hero-slide { position: absolute; inset: 0; opacity: 0; visibility: hidden; transition: opacity .9s ease, visibility 0s linear .9s; }
+.hero-slide.on { opacity: 1; visibility: visible; transition: opacity .9s ease; z-index: 1; }
+.hero-slide img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hero-slide img.hero-portrait { object-position: center 35%; }
+.hero-img::after { z-index: 3; }
+.hero-ctrl { position: absolute; left: 18px; bottom: 18px; z-index: 3; display: flex; align-items: center; gap: 4px; background: var(--bg); border: 1px solid var(--line); padding: 4px 6px; }
+.hero-ctrl button { width: 32px; height: 32px; display: grid; place-items: center; background: none; border: 0; padding: 0; cursor: pointer; color: var(--ink); }
+.hero-ctrl .dot::before { content: ""; width: 8px; height: 8px; border-radius: 50%; border: 1px solid var(--gold); }
+.hero-ctrl .dot[aria-current="true"]::before { background: var(--gold); }
+.hero-ctrl svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; }
+@media (max-width: 520px) { .hero-img .price-tag { right: 10px; bottom: 10px; padding: 7px 10px; font-size: .74rem; max-width: calc(100% - 158px); } .hero-ctrl { left: 10px; bottom: 10px; padding: 2px 4px; } .hero-ctrl button { width: 28px; height: 28px; } }
 .hero-copy { display: flex; flex-direction: column; justify-content: center; gap: 22px; padding: 48px 56px; padding: 48px max(20px, min(5vw, 64px)); }
 /* On large monitors line the hero up with the rest of the page's content edges */
 @media (min-width: 1360px) { .hero { max-width: 1280px; } }
@@ -400,10 +412,21 @@ section.flush-top { padding-top: 0; }
 <noscript><p class="nojs-note">The product catalogue needs JavaScript switched on. You can also browse everything in our <a href="https://www.ebay.co.uk/str/alfarashhomedecor">eBay shop</a>.</p></noscript>
 <main id="main">
   <div class="hero">
-    <a class="hero-img" data-link>
-      <img data-pid="333854490528" data-size="1600" sizes="(max-width: 900px) 100vw, 720px" alt="" width="1600" height="1600" fetchpriority="high">
-      <span class="price-tag">Black &amp; gold Greek key, 24 in</span>
-    </a>
+    <section class="hero-img" aria-roledescription="carousel" aria-label="Featured pieces">
+      <a class="hero-slide on" data-link data-optional>
+        <img data-pid="333854490528" data-size="1600" sizes="(max-width: 900px) 100vw, 720px" alt="" width="1600" height="1600" fetchpriority="high">
+        <span class="price-tag">Greek key cushion cover</span>
+      </a>
+      <a class="hero-slide" data-link data-optional aria-hidden="true" tabindex="-1">
+        <img class="hero-portrait" data-pid="332867515552" data-img="gDgAAOSwWvlimxQA" data-size="1600" sizes="(max-width: 900px) 100vw, 720px" alt="" width="1600" height="1600" fetchpriority="low">
+        <span class="price-tag">Best seller: Greek key curtains</span>
+      </a>
+      <a class="hero-slide" data-link data-optional aria-hidden="true" tabindex="-1">
+        <img data-pid="336849723012" data-size="1600" sizes="(max-width: 900px) 100vw, 720px" alt="" width="1600" height="1600" fetchpriority="low">
+        <span class="price-tag">Gold organza table runner</span>
+      </a>
+      <div class="hero-ctrl"><button type="button" class="hero-pause" aria-label="Pause slideshow"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg></button></div>
+    </section>
     <div class="hero-copy">
       <div class="kicker">Luxury velvet home decor</div>
       <h1>Dressed in <em>velvet</em>, finished in gold</h1>
@@ -482,7 +505,7 @@ section.flush-top { padding-top: 0; }
       <article class="look" aria-labelledby="look-black-gold">
         <h3 id="look-black-gold">Black &amp; gold</h3>
         <p class="muted">Black velvet with gold Greek keys, from cushions to curtains and the dining table.</p>
-        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333854490528" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333854490528"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333765278376" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765278376"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333896552872" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333896552872"></span><span class="look-type">Curtain &amp; blind set</span></a><a data-link class="look-item"><span class="ph"><img data-pid="336850979694" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850979694"></span><span class="look-type">Table set</span></a></div>
+        <div class="look-grid"><a data-link class="look-item"><span class="ph"><img data-pid="333854490528" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333854490528"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333765278376" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333765278376"></span><span class="look-type">Cushion cover</span></a><a data-link class="look-item"><span class="ph"><img data-pid="333896552931" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="333896552931"></span><span class="look-type">Curtain &amp; blind set</span></a><a data-link class="look-item"><span class="ph"><img data-pid="336850979694" data-size="500" alt="" loading="lazy" width="500" height="500"></span><span class="vh" data-title-of="336850979694"></span><span class="look-type">Table set</span></a></div>
         <a class="btn line sm" href="#shop" data-goto-col="black" data-goto-det="gold">Shop all black &amp; gold</a>
       </article>
       <article class="look" aria-labelledby="look-black-silver">
@@ -639,6 +662,38 @@ document.querySelectorAll('img').forEach(img => { if (img.complete && img.getAtt
     sync();
   });
   sync();
+})();
+// Hero slideshow: cushion, best-selling curtains and table runner take turns every 6 seconds.
+// Stops while the visitor hovers or tabs into it, has a pause button, and doesn't move at all for people who
+// have asked their device for reduced motion.
+(function () {
+  const box = document.querySelector('.hero-img'); if (!box) return;
+  const slides = [...box.querySelectorAll('.hero-slide')], ctrl = box.querySelector('.hero-ctrl'), pauseBtn = box.querySelector('.hero-pause');
+  if (slides.length < 2) { ctrl && ctrl.remove(); if (slides[0]) { slides[0].classList.add('on'); slides[0].removeAttribute('aria-hidden'); slides[0].removeAttribute('tabindex'); } return; }
+  let i = 0, timer = null, paused = matchMedia('(prefers-reduced-motion: reduce)').matches, held = false;
+  const dots = slides.map((s, k) => {
+    const b = document.createElement('button'); b.type = 'button'; b.className = 'dot';
+    b.setAttribute('aria-label', `Show picture ${k + 1} of ${slides.length}`);
+    b.addEventListener('click', () => { show(k); setPaused(true); });
+    ctrl.insertBefore(b, pauseBtn); return b;
+  });
+  function show(n) {
+    i = (n + slides.length) % slides.length;
+    slides.forEach((s, k) => { const on = k === i; s.classList.toggle('on', on);
+      if (on) { s.removeAttribute('aria-hidden'); s.removeAttribute('tabindex'); } else { s.setAttribute('aria-hidden', 'true'); s.setAttribute('tabindex', '-1'); } });
+    dots.forEach((d, k) => d.setAttribute('aria-current', k === i ? 'true' : 'false'));
+  }
+  function tick() { clearInterval(timer); timer = (paused || held || document.hidden) ? null : setInterval(() => show(i + 1), 6000); }
+  function setPaused(v) {
+    paused = v; pauseBtn.setAttribute('aria-label', v ? 'Play slideshow' : 'Pause slideshow');
+    pauseBtn.innerHTML = v ? '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l11 7-11 7z"/></svg>' : '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg>';
+    tick();
+  }
+  pauseBtn.addEventListener('click', () => setPaused(!paused));
+  box.addEventListener('mouseenter', () => { held = true; tick(); }); box.addEventListener('mouseleave', () => { held = false; tick(); });
+  box.addEventListener('focusin', () => { held = true; tick(); }); box.addEventListener('focusout', () => { held = false; tick(); });
+  document.addEventListener('visibilitychange', tick);
+  show(0); setPaused(paused);
 })();
 // Featured rail: customer favourites first (the default), or the newest listings
 (function () {
