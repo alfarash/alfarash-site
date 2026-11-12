@@ -151,7 +151,9 @@ html:not(.js) .theme-toggle { display: none; }
 @media (min-width: 1360px) { .hero { max-width: 1280px; } }
 .hero-copy h1 { font-size: 4.2rem; font-size: clamp(2.8rem, 5vw, 5rem); }
 .hero-copy p { max-width: 44ch; color: var(--muted); margin: 0; font-size: 1.05rem; }
-.hero-copy .row { display: flex; gap: 12px; flex-wrap: wrap; }
+.hero-copy .row { display: flex; gap: 10px; flex-wrap: wrap; }
+/* Front-page buttons are a little smaller than the rest so all three sit on one row */
+.hero-copy .btn { padding: 10px 14px; font-size: .72rem; letter-spacing: .06em; }
 .facts { display: flex; flex-wrap: wrap; gap: 14px 32px; margin: 14px 0 0; padding: 0; list-style: none; }
 .facts li { display: flex; flex-direction: column; }
 .facts b { font-family: var(--display); font-weight: 400; font-size: 1.6rem; font-variant-numeric: tabular-nums; }
@@ -423,7 +425,7 @@ section.flush-top { padding-top: 0; }
     <div class="hero-copy">
       <div class="kicker">Luxury velvet home decor</div>
       <h1>Dressed in <em>velvet</em>, finished in gold</h1>
-      <p>Crushed-velvet cushion covers in Greek key, Moroccan and diamante crystal designs, with curtain and blind sets made to measure, curtains, table runners, placemats and bed throw sets to match. Browse all <span data-count="all"></span> pieces, each one ready to buy on eBay.</p>
+      <p>Crushed-velvet cushion covers in Greek key, Moroccan and diamante designs, with made-to-measure curtains and blinds, table runners and placemats to match. Over <span data-count="all"></span> items ready on eBay.</p>
       <div class="row"><a class="btn" href="#shop" data-goto-type="cushions">Cushion covers</a><a class="btn line" href="#shop" data-goto-type="curtains">Curtains &amp; blinds</a><a class="btn line" href="#shop" data-goto-type="table">Table linen</a></div>
       <ul class="facts">
         <li><b>3,700+</b><span>items sold</span></li>
