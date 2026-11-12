@@ -144,6 +144,7 @@ UNSIZED = []
 # Listings deliberately kept off the website (still live on eBay). Remove an ID here to show it.
 EXCLUDE = {
     "336850765520",  # black cushion showing the Chanel "CC" logo in crystals - brand logo, held back
+    "333896552872",  # same photo, title and price as 333896552931 (black & gold curtain & blind set) - shown once
 }
 
 
@@ -238,15 +239,15 @@ CAT_COUNTS = Counter(c for p in products for c in p["cs"])
 def prerender(html):
     """Write photos, links, prices and counts straight into the HTML, so the page looks
     right before (or without) JavaScript running. The script still fills them too."""
-    def img_url(p, size):
-        return f"https://i.ebayimg.com/images/g/{p['img']}/s-l{size}.webp"
+    def img_url(p, size, key=None):
+        return f"https://i.ebayimg.com/images/g/{key or p['img']}/s-l{size}.webp"
 
     def link(m):
         block = m.group(0)
         pid = re.search(r'data-pid="(\d+)"', block)
         p = BY_ID.get(pid.group(1)) if pid else None
         if not p:
-            return block
+            return "" if " data-optional" in block[:200] else block
         has_text = re.sub(r"<[^>]+>", "", block).strip()
         attrs = f' href="https://www.ebay.co.uk/itm/{p["id"]}" target="_blank" rel="noopener"'
         if not has_text:
@@ -263,11 +264,13 @@ def prerender(html):
         if not p:
             return tag
         size = int(re.search(r'data-size="(\d+)"', tag).group(1)) if 'data-size="' in tag else 640
+        key = re.search(r'data-img="([^"]+)"', tag)
+        key = key.group(1) if key else None
         extra = ""
         if " sizes=" in tag:  # responsive photo: let the browser pick the right size for the screen
             widths = [w for w in (640, 960, 1600) if w <= size] or [size]
-            extra = 'srcset="' + ", ".join(f"{img_url(p, w)} {w}w" for w in widths) + '" '
-        return tag.replace("<img ", f'<img src="{img_url(p, size)}" {extra}', 1)
+            extra = 'srcset="' + ", ".join(f"{img_url(p, w, key)} {w}w" for w in widths) + '" '
+        return tag.replace("<img ", f'<img src="{img_url(p, size, key)}" {extra}', 1)
 
     html = re.sub(r'<img\b[^>]*\bdata-pid="(\d+)"[^>]*>', img, html)
     html = re.sub(r'(data-price-of="(\d+)"[^>]*>)(</)', lambda m: m.group(1) + (f"£{BY_ID[m.group(2)]['p']:.2f}" if m.group(2) in BY_ID else "") + m.group(3), html)

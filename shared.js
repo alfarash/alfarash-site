@@ -71,8 +71,13 @@ const sizeLabel = p => p.c === 'curtains' ? 'Curtain & blind set' : p.c === 'tab
 
 // Fill any product photo / price placeholders in the page
 document.querySelectorAll('img[data-pid]').forEach(img => {
-  const p = BY_ID[img.dataset.pid]; if (!p) return;
-  img.src = IMG(p.img, img.dataset.size || 640); if (!img.hasAttribute('alt')) img.alt = p.t;
+  const p = BY_ID[img.dataset.pid];
+  if (!p) { img.closest('[data-optional]')?.remove(); return; }      // listing ended: drop optional blocks (hero slides)
+  if (img.dataset.img) {                                              // a chosen gallery photo; fall back to the main one
+    img.addEventListener('error', () => { img.removeAttribute('srcset'); img.src = IMG(p.img, img.dataset.size || 640); }, { once: true });
+  }
+  if (!img.getAttribute('src')) img.src = IMG(img.dataset.img || p.img, img.dataset.size || 640);
+  if (!img.hasAttribute('alt')) img.alt = p.t;
   const a = img.closest('a[data-link]'); if (a) { a.href = URL_FOR(p.id); a.target = '_blank'; a.rel = 'noopener'; }
 });
 document.querySelectorAll('[data-price-of]').forEach(el => { const p = BY_ID[el.dataset.priceOf]; if (p) el.textContent = gbp(p.p); });
