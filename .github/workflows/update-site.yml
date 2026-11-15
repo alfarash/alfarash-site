@@ -1,5 +1,5 @@
 # Keeps www.alfarash.co.uk in step with the eBay shop.
-# Every morning (and whenever a file in this repository changes, or when you press "Run workflow" on the Actions tab)
+# Every 4 hours (and whenever a file in this repository changes, or when you press "Run workflow" on the Actions tab)
 # it reads the live eBay listings, rebuilds the website and publishes it to GitHub Pages.
 # New listings appear, ended ones disappear, and titles, prices and photos follow eBay.
 # If eBay can't be read, the run fails (GitHub emails you) and the website stays as it was.
@@ -7,7 +7,7 @@ name: Update website from eBay
 
 on:
   schedule:
-    - cron: "23 5 * * *"        # every day at 05:23 UTC (05:23 in winter, 06:23 in summer UK time)
+    - cron: "23 */4 * * *"      # every 4 hours (GitHub often starts scheduled runs late, so more runs keep the site current)
   workflow_dispatch:            # "Run workflow" button on the Actions tab
   push:
     branches: [main]
