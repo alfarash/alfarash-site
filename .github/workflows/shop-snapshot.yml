@@ -1,0 +1,59 @@
+# Daily read-only snapshot of the eBay shop for the weekly checks (listing check on Friday, sales research on Saturday).
+# The checks run in the cloud and can't reach eBay themselves, so this saves everything they need
+# (listings, item specifics, descriptions, photos, postage, units sold, and popular eBay searches)
+# into the "shop-data" branch of this repository. It doesn't touch the website.
+name: Daily eBay shop snapshot
+
+on:
+  schedule:
+    - cron: "17 1 * * *"        # every night (GitHub may start it a few hours late; the checks use the newest snapshot)
+  workflow_dispatch:            # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write               # to save the snapshot to the shop-data branch
+
+concurrency:
+  group: shop-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Open the shop-data branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch --depth=1 origin shop-data; then
+            git worktree add -B shop-data snap FETCH_HEAD
+          else
+            git worktree add --detach snap
+            cd snap && git checkout --orphan shop-data && git rm -rfq . && git clean -fdq
+          fi
+
+      - name: Read the shop from eBay
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+          SNAP_DIR: snap
+        run: python3 scripts/snapshot_ebay.py
+
+      - name: Save the snapshot
+        run: |
+          cd snap
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed since the last snapshot"
+          else
+            git commit -qm "Shop snapshot $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push origin shop-data
+          fi
