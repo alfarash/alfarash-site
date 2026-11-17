@@ -1,11 +1,70 @@
 {
  "search": "moroccan cushion covers",
- "total": 3764,
+ "total": 3751,
  "results": [
+  {
+   "id": "222519136445",
+   "title": "Xmas Stock Luxury Wool Turkish Moroccan Colourful Pure Kilim Cushion Cover",
+   "price": "19.00",
+   "seller": "ishopgb",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/222519136445"
+  },
+  {
+   "id": "147102596603",
+   "title": "45cm x 45cm Cushion Cover Turkish / Moroccan Style",
+   "price": "10.99",
+   "seller": "tranquilsunltd",
+   "sellerFeedback": "97.8",
+   "postage": [
+    "2.48"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/147102596603",
+   "sold": 72,
+   "available": null,
+   "specifics": {
+    "Pattern": "Kilim",
+    "Shape": "Square",
+    "Size": "45 x 45 cm",
+    "Fill Material": "No fill",
+    "Material": "Cotton",
+    "MPN": "147",
+    "Item Length": "45 cm",
+    "Subject": "Square",
+    "Customised": "No",
+    "Colour": "Multicoloured",
+    "Brand": "Unbranded",
+    "Type": "Cushion Cover",
+    "Care Instructions": "Hand Wash Only",
+    "Item Height": "45 cm",
+    "Style": "Kilim",
+    "Theme": "Geometric",
+    "Closure Type": "Zip",
+    "Unit Quantity": "1",
+    "Room": "All rooms",
+    "Item Width": "45 cm",
+    "Country of Origin": "Türkiye",
+    "Personalise": "No"
+   }
+  },
   {
    "id": "117185432812",
    "title": "Turkish Moroccan Kilim Cushion Cover 90x45cm Lumbar Pillow Cover",
-   "price": "34.99",
+   "price": "49.99",
    "seller": "spirithomeinteriors",
    "sellerFeedback": "100.0",
    "postage": [
@@ -61,52 +120,9 @@
    }
   },
   {
-   "id": "147102596603",
-   "title": "45cm x 45cm Cushion Cover Turkish / Moroccan Style",
-   "price": "10.99",
-   "seller": "tranquilsunltd",
-   "sellerFeedback": "97.8",
-   "postage": [
-    "2.48"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/147102596603",
-   "sold": 72,
-   "available": null,
-   "specifics": {
-    "Pattern": "Kilim",
-    "Shape": "Square",
-    "Size": "45 x 45 cm",
-    "Fill Material": "No fill",
-    "Material": "Cotton",
-    "MPN": "147",
-    "Item Length": "45 cm",
-    "Subject": "Square",
-    "Customised": "No",
-    "Colour": "Multicoloured",
-    "Brand": "Unbranded",
-    "Type": "Cushion Cover",
-    "Care Instructions": "Hand Wash Only",
-    "Item Height": "45 cm",
-    "Style": "Kilim",
-    "Theme": "Geometric",
-    "Closure Type": "Zip",
-    "Unit Quantity": "1",
-    "Room": "All rooms",
-    "Item Width": "45 cm",
-    "Country of Origin": "Türkiye",
-    "Personalise": "No"
-   }
-  },
-  {
    "id": "960178144443",
    "title": "Moroccan Kilim Style Pillow Covers Set of 4 Geometric Tribal Red Boho Home Decor",
-   "price": "11.78",
+   "price": "11.99",
    "seller": "ay-1312",
    "sellerFeedback": "98.6",
    "postage": [
@@ -148,61 +164,58 @@
    }
   },
   {
-   "id": "222519136445",
-   "title": "Xmas Stock Luxury Wool Turkish Moroccan Colourful Pure Kilim Cushion Cover",
-   "price": "19.00",
-   "seller": "ishopgb",
+   "id": "278299140199",
+   "title": "Moroccan Cactus Sabra Silk Handmade Pillows Cushion Cover, Boho, Berber",
+   "price": "32.98",
+   "seller": "bohokasbah",
    "sellerFeedback": "100.0",
+   "postage": [
+    "2.96"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 7,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/278299140199",
+   "sold": 0,
+   "available": 1,
+   "specifics": {
+    "Pattern": "Geometric",
+    "Shape": "Square",
+    "Size": "48x46cm",
+    "Color": "turquoise, mint",
+    "Material": "100% Silk, Silk",
+    "Subject": "Cactus",
+    "Colour": "Terracota Red",
+    "Brand": "Handmade",
+    "Type": "Cushion Cover",
+    "Care Instructions": "Dry Clean Only",
+    "Style": "Moroccan, Berber",
+    "Theme": "Cactus",
+    "Features": "Embroidered",
+    "Closure Type": "Zipper",
+    "Room": "Dining Room, Guestroom, Living Room, Lounge, Trailer",
+    "Country of Origin": "Morocco",
+    "Product Line": "Cactus Silk Pillow Cover"
+   }
+  },
+  {
+   "id": "398273514306",
+   "title": "Moroccan Kilim Style Pillow Covers Set of 4 Geometric Tribal Red Boho Home Decor",
+   "price": "11.99",
+   "seller": "uk.shamballa",
+   "sellerFeedback": "99.3",
    "postage": [
     "0.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/222519136445"
-  },
-  {
-   "id": "336899469984",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Blue Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
+   "photos": 10,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336899469984",
-   "sold": 0,
-   "available": 1,
-   "specifics": {
-    "Brand": "Desert Rose",
-    "Color": "Blue",
-    "Country of Origin": "Morocco",
-    "Era": "Contemporary",
-    "Features": "Handmade",
-    "Handmade": "Yes",
-    "Item Length": "52 cm",
-    "Item Width": "49 cm",
-    "Material": "Cotton",
-    "Original/Reproduction": "Original",
-    "Pattern": "Geometric, Diamond, Lozenge",
-    "Production Technique": "Woven",
-    "Regional Design": "-",
-    "Room": "Living Room, Bedroom",
-    "Shape": "Square",
-    "Size": "1'8 x 1'7",
-    "Style": "Moroccan, Berber, Bohemian, Tribal",
-    "Time Period Manufactured": "Contemporary",
-    "Type": "Pillow Cover",
-    "Weave": "Hand-Woven"
-   }
+   "url": "https://www.ebay.co.uk/itm/398273514306"
   },
   {
    "id": "358613193644",
@@ -221,325 +234,6 @@
    "url": "https://www.ebay.co.uk/itm/358613193644"
   },
   {
-   "id": "336899469999",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Blue Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336899469999",
-   "sold": 0,
-   "available": 1,
-   "specifics": {
-    "Brand": "Desert Rose",
-    "Color": "Blue",
-    "Country of Origin": "Morocco",
-    "Era": "Contemporary",
-    "Features": "Handmade",
-    "Handmade": "Yes",
-    "Item Length": "52 cm",
-    "Item Width": "49 cm",
-    "Material": "Cotton",
-    "Original/Reproduction": "Original",
-    "Pattern": "Geometric, Diamond, Lozenge",
-    "Production Technique": "Woven",
-    "Room": "Living Room, Bedroom",
-    "Shape": "Square",
-    "Size": "1'8 x 1'7",
-    "Style": "Moroccan, Berber, Bohemian, Tribal",
-    "Time Period Manufactured": "Contemporary",
-    "Type": "Pillow Cover",
-    "Weave": "Hand-Woven"
-   }
-  },
-  {
-   "id": "237185077231",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Blue Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077231",
-   "sold": 0,
-   "available": 1,
-   "specifics": {
-    "Brand": "Desert Rose",
-    "Color": "Blue",
-    "Country of Origin": "Morocco",
-    "Era": "Contemporary",
-    "Features": "Handmade",
-    "Handmade": "Yes",
-    "Item Length": "52 cm",
-    "Item Width": "49 cm",
-    "Material": "Cotton",
-    "Original/Reproduction": "Original",
-    "Pattern": "Geometric, Diamond, Lozenge",
-    "Production Technique": "Woven",
-    "Regional Design": "-",
-    "Room": "Living Room, Bedroom",
-    "Shape": "Square",
-    "Size": "1'8 x 1'7",
-    "Style": "Moroccan, Berber, Bohemian, Tribal",
-    "Time Period Manufactured": "Contemporary",
-    "Type": "Pillow Cover",
-    "Weave": "Hand-Woven"
-   }
-  },
-  {
-   "id": "237185077259",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Blue Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077259"
-  },
-  {
-   "id": "336899469990",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Blue Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336899469990"
-  },
-  {
-   "id": "237185077278",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Gray Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077278"
-  },
-  {
-   "id": "267737750156",
-   "title": "Minamalist/ Modern style Moroccan Embroidered Cushion",
-   "price": "37.10",
-   "seller": "heliconiastore",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 6,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/267737750156"
-  },
-  {
-   "id": "147031106285",
-   "title": "Moroccan Cactus Silk Cushion Cover - Handcrafted Yellow Pillow for Artistic Home",
-   "price": "38.14",
-   "seller": "rom4174",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 5,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/147031106285"
-  },
-  {
-   "id": "146961116559",
-   "title": "Moroccan Cushion Cover In Wool Handmade In Morocco 30cm X 50cm New",
-   "price": "38.14",
-   "seller": "rom4174",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 6,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/146961116559"
-  },
-  {
-   "id": "237185077244",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 White Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077244"
-  },
-  {
-   "id": "336899469997",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Beige Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336899469997"
-  },
-  {
-   "id": "237185077227",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 White Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077227"
-  },
-  {
-   "id": "237185077268",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 White Cream Cotton",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077268"
-  },
-  {
-   "id": "237185077281",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Beige Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077281"
-  },
-  {
-   "id": "237185077248",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 Pink Cotton Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077248"
-  },
-  {
-   "id": "237185077235",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 White Cream Wool Boho",
-   "price": "75.06",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237185077235"
-  },
-  {
-   "id": "336899469893",
-   "title": "Handmade Authentic Moroccan Berber Pillow Cover 1'7 x 1'8 White Cotton Boho",
-   "price": "100.09",
-   "seller": "desertrosemarket",
-   "sellerFeedback": "0.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336899469893"
-  },
-  {
    "id": "196577683129",
    "title": "Luxury Purple Gold Moroccan Style Handmade Embroidered 10\" Cushion",
    "price": "9.95",
@@ -554,40 +248,28 @@
    ],
    "photos": 4,
    "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/196577683129"
-  },
-  {
-   "id": "128031340475",
-   "title": "Kilim cushion Covers Handmade, Traditional Turkish Oriental Cushions Moroccan 22",
-   "price": "22.49",
-   "seller": "witcheryhomedecore",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/128031340475"
-  },
-  {
-   "id": "278299140199",
-   "title": "Moroccan Cactus Sabra Silk Handmade Pillows Cushion Cover, Boho, Berber",
-   "price": "32.98",
-   "seller": "bohokasbah",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.96"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 7,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/278299140199"
+   "url": "https://www.ebay.co.uk/itm/196577683129",
+   "sold": 21,
+   "available": 10,
+   "specifics": {
+    "Pattern": "Woven",
+    "Shape": "Square",
+    "Size": "25cm x 25cm (10in x 10in)",
+    "Material": "Velvet",
+    "Item Length": "25 cm",
+    "Colour": "Purple",
+    "Brand": "Handmade",
+    "Type": "Cushion Cover",
+    "Department": "Men, Women",
+    "Care Instructions": "Hand Wash Only",
+    "Style": "Moroccan",
+    "Theme": "Fashion",
+    "Features": "Embroidered",
+    "Closure Type": "Zip",
+    "Room": "Bedroom, Caravan, Dining Room, Guestroom, Indoor/Outdoor, Living Room, Lounge, Office",
+    "Item Width": "25 cm",
+    "Country of Origin": "United Kingdom"
+   }
   },
   {
    "id": "152699695108",
@@ -606,138 +288,8 @@
    "url": "https://www.ebay.co.uk/itm/152699695108"
   },
   {
-   "id": "137139761245",
-   "title": "Moroccan Authentic Handmade Cushion Cover",
-   "price": "42.30",
-   "seller": "muhaib10",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 4,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/137139761245"
-  },
-  {
-   "id": "306759016012",
-   "title": "Vintage Moroccan Kilim Cushion Cover 50x50 Handwoven Wool Throw Pillow Case",
-   "price": "52.60",
-   "seller": "chicka77",
-   "sellerFeedback": "99.1",
-   "postage": [
-    "3.38"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 8,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/306759016012"
-  },
-  {
-   "id": "306758990903",
-   "title": "Moroccan Kilim Cushion Cover 50x50 Vintage Boujaad Wool Pillow Case Boho Ethnic",
-   "price": "52.60",
-   "seller": "chicka77",
-   "sellerFeedback": "99.1",
-   "postage": [
-    "3.38"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 9,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/306758990903"
-  },
-  {
-   "id": "406865181075",
-   "title": "Rug Cushion Cover Oriental Moroccan Kilim Printed Cotton Rusty Red Fabric 16-24”",
-   "price": "20.99",
-   "seller": "cushionslondon",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/406865181075"
-  },
-  {
-   "id": "222325197160",
-   "title": "Xmas Stock Luxury Wool Turkish Moroccan Colourful Pure Kilim Cushion Cover",
-   "price": "19.00",
-   "seller": "ishopgb",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/222325197160"
-  },
-  {
-   "id": "237115177386",
-   "title": "Moroccan cactus silk handmade fabric cushion cover with zip closure 55cm x 55cm",
-   "price": "31.90",
-   "seller": "jkbooks24074",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 3,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237115177386"
-  },
-  {
-   "id": "820048123589",
-   "title": "Ethnic Style Embroidered Square Moroccan Cushion Cover Embroidered Pillow Cover",
-   "price": "11.99",
-   "seller": "ranytdfgdgong",
-   "sellerFeedback": "98.9",
-   "postage": [
-    "5.99"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 24,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/820048123589"
-  },
-  {
-   "id": "298032508542",
-   "title": "Moroccan Kilim Style Pillow Covers 1x Geometric Tribal Red Boho Home Decor UK",
-   "price": "9.98",
-   "seller": "uniqfind",
-   "sellerFeedback": "99.4",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 5,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/298032508542"
-  },
-  {
-   "id": "206635823877",
-   "title": "ELEGANT TURKISH/MOROCCAN CUSHION COVERS red/blue/turquoise/gold ottoman design",
+   "id": "206635823885",
+   "title": "GORGEOUS TURKISH/MOROCCAN CUSHION COVERS double-sided with zip opening   ",
    "price": "9.73",
    "seller": "hiladanali1",
    "sellerFeedback": "100.0",
@@ -747,25 +299,9 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 5,
+   "photos": 8,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/206635823877"
-  },
-  {
-   "id": "398273514306",
-   "title": "Moroccan Kilim Style Pillow Covers Set of 4 Geometric Tribal Red Boho Home Decor",
-   "price": "11.99",
-   "seller": "uk.shamballa",
-   "sellerFeedback": "99.3",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 10,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/398273514306"
+   "url": "https://www.ebay.co.uk/itm/206635823885"
   },
   {
    "id": "196577704573",
@@ -785,86 +321,37 @@
    "url": "https://www.ebay.co.uk/itm/196577704573"
   },
   {
-   "id": "376293356207",
-   "title": "turkish made  cushion covers 4 piece set without filling Highest quality",
-   "price": "200.00",
-   "seller": "classic-leisure-products",
+   "id": "940087092795",
+   "title": "Moroccan Cactus Sabra Silk Handmade Pillows Cushion Cover, Boho, Berber",
+   "price": "32.98",
+   "seller": "bohokasbah",
    "sellerFeedback": "100.0",
    "postage": [
-    "7.90"
+    "2.96"
    ],
    "buyingOptions": [
     "FIXED_PRICE",
     "BEST_OFFER"
    ],
-   "photos": 2,
+   "photos": 5,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/376293356207"
+   "url": "https://www.ebay.co.uk/itm/940087092795"
   },
   {
-   "id": "336853717600",
-   "title": "Moroccan Kilim Style Pillow Covers Set of 4 Geometric Tribal Red Boho Home Decor",
-   "price": "10.95",
-   "seller": "xiepro",
-   "sellerFeedback": "99.1",
+   "id": "145321554605",
+   "title": "45cm x 45cm Hand-woven Kilim Cushion Cover Turkish/ Moroccan Style",
+   "price": "9.99",
+   "seller": "tranquilsunltd",
+   "sellerFeedback": "97.8",
    "postage": [
-    "0.00"
+    "2.48"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 9,
+   "photos": 1,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336853717600"
-  },
-  {
-   "id": "237177181887",
-   "title": "Embroidered Cushion Covers 50x50 Set of 2 Grey White Moroccan Scatter Cotton",
-   "price": "18.68",
-   "seller": "yourdirectwarehouse",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 8,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/237177181887"
-  },
-  {
-   "id": "900044294843",
-   "title": "Moroccan Patchwork Double Sided Cushion Terracotta Various sizes Freyett fabric",
-   "price": "30.00",
-   "seller": "silk-peonyuk",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "3.50"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 8,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/900044294843"
-  },
-  {
-   "id": "227564324962",
-   "title": "Kilim Cushion Cover Turkish Moroccan Style, aprx 18x18 inch ",
-   "price": "26.70",
-   "seller": "drereydon",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "3.38"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 4,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/227564324962"
+   "url": "https://www.ebay.co.uk/itm/145321554605"
   },
   {
    "id": "278222443819",
@@ -884,11 +371,141 @@
    "url": "https://www.ebay.co.uk/itm/278222443819"
   },
   {
+   "id": "222325197160",
+   "title": "Xmas Stock Luxury Wool Turkish Moroccan Colourful Pure Kilim Cushion Cover",
+   "price": "19.00",
+   "seller": "ishopgb",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/222325197160"
+  },
+  {
+   "id": "298032508542",
+   "title": "Moroccan Kilim Style Pillow Covers 1x Geometric Tribal Red Boho Home Decor UK",
+   "price": "6.31",
+   "seller": "uniqfind",
+   "sellerFeedback": "99.4",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/298032508542"
+  },
+  {
+   "id": "128031340475",
+   "title": "Kilim cushion Covers Handmade, Traditional Turkish Oriental Cushions Moroccan 22",
+   "price": "19.79",
+   "seller": "witcheryhomedecore",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/128031340475"
+  },
+  {
+   "id": "820048123589",
+   "title": "Ethnic Style Embroidered Square Moroccan Cushion Cover Embroidered Pillow Cover",
+   "price": "11.99",
+   "seller": "ranytdfgdgong",
+   "sellerFeedback": "98.8",
+   "postage": [
+    "5.99"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 24,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/820048123589"
+  },
+  {
+   "id": "237115177386",
+   "title": "Moroccan cactus silk handmade fabric cushion cover with zip closure 55cm x 55cm",
+   "price": "31.90",
+   "seller": "jkbooks24074",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 3,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/237115177386"
+  },
+  {
+   "id": "196577819115",
+   "title": "Luxury Dark Purple Gold Rectangle Moroccan Style Handmade Embroidered Cushion",
+   "price": "9.95",
+   "seller": "cuckoohome",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 6,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/196577819115"
+  },
+  {
+   "id": "206635823877",
+   "title": "ELEGANT TURKISH/MOROCCAN CUSHION COVERS red/blue/turquoise/gold ottoman design",
+   "price": "9.73",
+   "seller": "hiladanali1",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/206635823877"
+  },
+  {
+   "id": "336853717600",
+   "title": "Moroccan Kilim Style Pillow Covers Set of 4 Geometric Tribal Red Boho Home Decor",
+   "price": "10.95",
+   "seller": "xiepro",
+   "sellerFeedback": "99.2",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 9,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/336853717600"
+  },
+  {
    "id": "206672333815",
    "title": "Bohemian Moroccan Floor Cushion - Cozy Decor for Living Room/Meditation - 50cm",
    "price": "13.95",
    "seller": "special-2home",
-   "sellerFeedback": "99.5",
+   "sellerFeedback": "99.6",
    "postage": [
     "0.00"
    ],
@@ -900,20 +517,121 @@
    "url": "https://www.ebay.co.uk/itm/206672333815"
   },
   {
-   "id": "206635823885",
-   "title": "GORGEOUS TURKISH/MOROCCAN CUSHION COVERS double-sided with zip opening   ",
-   "price": "9.73",
-   "seller": "hiladanali1",
+   "id": "237177181887",
+   "title": "Embroidered Cushion Covers 50x50 Set of 2 Grey White Moroccan Scatter Cotton",
+   "price": "18.68",
+   "seller": "yourdirectwarehouse",
    "sellerFeedback": "100.0",
    "postage": [
-    "2.94"
+    "0.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
    "photos": 8,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/206635823885"
+   "url": "https://www.ebay.co.uk/itm/237177181887"
+  },
+  {
+   "id": "125626649881",
+   "title": "Kilim cushion covers Luxury Wool Decorative Turkish Moroccan, Vinatge Looking",
+   "price": "17.09",
+   "seller": "witcheryhomedecore",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/125626649881"
+  },
+  {
+   "id": "227564324962",
+   "title": "Kilim Cushion Cover Turkish Moroccan Style, aprx 18x18 inch ",
+   "price": "26.70",
+   "seller": "drereydon",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "3.38"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 4,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/227564324962"
+  },
+  {
+   "id": "940014370798",
+   "title": "Moroccan Cactus Sabra Silk Handmade Pillows Cushion Cover, Boho, Berber",
+   "price": "31.90",
+   "seller": "bohokasbah",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.96"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 9,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/940014370798"
+  },
+  {
+   "id": "376293356207",
+   "title": "turkish made  cushion covers 4 piece set without filling Highest quality",
+   "price": "200.00",
+   "seller": "classic-leisure-products",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "7.90"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 2,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/376293356207"
+  },
+  {
+   "id": "278378459461",
+   "title": "Moroccan Cactus Sabra Silk Handmade Pillows Cushion Cover, Boho, Berber",
+   "price": "32.98",
+   "seller": "bohokasbah",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.96"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 7,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/278378459461"
+  },
+  {
+   "id": "278299053345",
+   "title": "Moroccan Cactus Sabra Silk Handmade Pillows Cushion Cover, Boho, Berber",
+   "price": "32.98",
+   "seller": "bohokasbah",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.96"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 9,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/278299053345"
   },
   {
    "id": "196577681394",
@@ -933,11 +651,239 @@
    "url": "https://www.ebay.co.uk/itm/196577681394"
   },
   {
-   "id": "384311491504",
-   "title": "Cushion Covers moroccan Geometric 17 inch 43 cm Square case uk bedding 4X",
-   "price": "20.95",
-   "seller": "leodesignlondon",
+   "id": "307251575826",
+   "title": "Moroccan Patchwork Double Sided Cushion Terracotta Various sizes Freyett fabric",
+   "price": "30.00",
+   "seller": "silk-peonyuk",
    "sellerFeedback": "100.0",
+   "postage": [
+    "3.50"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 10,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/307251575826"
+  },
+  {
+   "id": "900044294843",
+   "title": "Moroccan Patchwork Double Sided Cushion Terracotta Various sizes Freyett fabric",
+   "price": "36.00",
+   "seller": "silk-peonyuk",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "3.50"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 8,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/900044294843"
+  },
+  {
+   "id": "820324018814",
+   "title": "Terracotta Orange & Gold Turkish Kilim Style Pillow Cushion with Pad Handmade",
+   "price": "12.94",
+   "seller": "drippydraper",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.96"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 2,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/820324018814"
+  },
+  {
+   "id": "158357072882",
+   "title": "Moroccan Berber Azilal cushion cover approx 60cm x 40cm",
+   "price": "31.90",
+   "seller": "7299m",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/158357072882"
+  },
+  {
+   "id": "158357145267",
+   "title": "Moroccan Berber Azilal cushion cover approx 60cm x 40cm",
+   "price": "31.90",
+   "seller": "7299m",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/158357145267"
+  },
+  {
+   "id": "306759016012",
+   "title": "Vintage Moroccan Kilim Cushion Cover 50x50 Handwoven Wool Throw Pillow Case",
+   "price": "52.60",
+   "seller": "chicka77",
+   "sellerFeedback": "99.1",
+   "postage": [
+    "3.38"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 8,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/306759016012"
+  },
+  {
+   "id": "145321799098",
+   "title": "45cm x 45cm Hand-woven Kilim Cushion Cover Turkish/ Moroccan Style",
+   "price": "9.99",
+   "seller": "tranquilsunltd",
+   "sellerFeedback": "97.8",
+   "postage": [
+    "2.48"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/145321799098"
+  },
+  {
+   "id": "403874616592",
+   "title": "Ethnic Rug Cushion Cover Woven Kilim Pattern Home Decor Vintage Moroccan 16-24”",
+   "price": "24.99",
+   "seller": "cushionslondon",
+   "sellerFeedback": "99.5",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/403874616592"
+  },
+  {
+   "id": "264804193628",
+   "title": "Moroccan Cushion Covers 50 x 50cm Choose from 4 Designs Free Fast PP ",
+   "price": "25.00",
+   "seller": "moroccanbazaaroutletstore",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 4,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/264804193628"
+  },
+  {
+   "id": "198785469702",
+   "title": "4x Tropical Botanical Cushion Covers Leaf Print Pillow Cases Coffee Grey 45x45cm",
+   "price": "9.95",
+   "seller": "wholesomehannah",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 6,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/198785469702"
+  },
+  {
+   "id": "264804182765",
+   "title": "Moroccan Cushion Covers 40 x 40cm 2 Designs Multicoloured or Pink Free Fast PP ",
+   "price": "12.50",
+   "seller": "moroccanbazaaroutletstore",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 2,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/264804182765"
+  },
+  {
+   "id": "206659908815",
+   "title": "Vintage Moroccan Boujaad Cushion Cover SALE || 60 x 40 cm || Berber Wool Pillow",
+   "price": "47.50",
+   "seller": "moroccanlight1",
+   "sellerFeedback": "95.2",
+   "postage": [
+    "3.38"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 6,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/206659908815"
+  },
+  {
+   "id": "820319858335",
+   "title": "Silver, Cream & Pale Blue Turkish Kilim Style Pillow Cushion with Pad Handmade",
+   "price": "12.94",
+   "seller": "drippydraper",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.96"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 2,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/820319858335"
+  },
+  {
+   "id": "295706033673",
+   "title": "Custom Moroccan Woven Tufted Cushion Covers 45x45cm Multicoloured Square",
+   "price": "8.69",
+   "seller": "rkaas_home",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 4,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/295706033673"
+  },
+  {
+   "id": "196577686646",
+   "title": "Luxury Black Gold Moroccan Style Handmade Embroidered 10\" Cushion",
+   "price": "9.95",
+   "seller": "cuckoohome",
+   "sellerFeedback": "99.6",
    "postage": [
     "0.00"
    ],
@@ -945,26 +891,42 @@
     "FIXED_PRICE",
     "BEST_OFFER"
    ],
-   "photos": 7,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/384311491504"
+   "photos": 4,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/196577686646"
   },
   {
-   "id": "326474452129",
-   "title": "Green Cactus Silk Pillow Case 140x20 cm Moroccan  Berber Pillow Handmade",
-   "price": "29.30",
-   "seller": "hitopharry",
+   "id": "145321853717",
+   "title": "45cm x 45cm Hand-woven Kilim Cushion Cover Turkish/ Moroccan Style",
+   "price": "9.99",
+   "seller": "tranquilsunltd",
+   "sellerFeedback": "97.8",
+   "postage": [
+    "2.48"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/145321853717"
+  },
+  {
+   "id": "278285534376",
+   "title": "Moroccan Cactus Sabra Silk Handmade Pillows Cushion Cover, Boho, Berber",
+   "price": "32.98",
+   "seller": "bohokasbah",
    "sellerFeedback": "100.0",
    "postage": [
-    "5.15"
+    "2.96"
    ],
    "buyingOptions": [
     "FIXED_PRICE",
     "BEST_OFFER"
    ],
-   "photos": 7,
+   "photos": 8,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/326474452129"
+   "url": "https://www.ebay.co.uk/itm/278285534376"
   }
  ]
 }
