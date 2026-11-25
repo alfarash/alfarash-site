@@ -1,6 +1,6 @@
 {
  "search": "black and gold cushion covers",
- "total": 1371,
+ "total": 1376,
  "results": [
   {
    "id": "286678450330",
@@ -19,52 +19,20 @@
    "url": "https://www.ebay.co.uk/itm/286678450330"
   },
   {
-   "id": "336897742442",
-   "title": "Black & Gold Crushed Velvet Greek Key Stripe Cushion Cover 24\" 60cm Luxury",
-   "price": "24.61",
-   "seller": "al-farash",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 5,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336897742442"
-  },
-  {
-   "id": "197039551523",
-   "title": "Pair of Decorative Marble Print Velvet Cushion Covers – Gold Foil Design",
-   "price": "11.39",
-   "seller": "stylemybedroom",
-   "sellerFeedback": "99.2",
+   "id": "386509072118",
+   "title": "UK 16\" 18\" 20\" Luxury Gold Feather Plush Cushion Cover Pillow Case Home Decor",
+   "price": "5.29",
+   "seller": "rngservic-77",
+   "sellerFeedback": "99.1",
    "postage": [
     "0.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 5,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/197039551523"
-  },
-  {
-   "id": "204651289453",
-   "title": "Greek Key Velvet Cushion Cover 16x16 Pillow Case Throw Geometric Sofa Cushion",
-   "price": "7.58",
-   "seller": "saiq8733",
-   "sellerFeedback": "88.2",
-   "postage": [
-    "2.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 11,
+   "photos": 12,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/204651289453"
+   "url": "https://www.ebay.co.uk/itm/386509072118"
   },
   {
    "id": "307153597392",
@@ -109,20 +77,20 @@
    }
   },
   {
-   "id": "306300326798",
-   "title": "Furn Meridian Plain Velvet Cushion | 45 x 45 cm | Multiple Colours",
-   "price": "9.00",
-   "seller": "furncom",
-   "sellerFeedback": "99.8",
+   "id": "204651289453",
+   "title": "Greek Key Velvet Cushion Cover 16x16 Pillow Case Throw Geometric Sofa Cushion",
+   "price": "7.58",
+   "seller": "saiq8733",
+   "sellerFeedback": "88.2",
    "postage": [
-    "0.00"
+    "2.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 1,
+   "photos": 11,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/306300326798"
+   "url": "https://www.ebay.co.uk/itm/204651289453"
   },
   {
    "id": "177460042156",
@@ -139,6 +107,38 @@
    "photos": 10,
    "topRated": false,
    "url": "https://www.ebay.co.uk/itm/177460042156"
+  },
+  {
+   "id": "306300326798",
+   "title": "Furn Meridian Plain Velvet Cushion | 45 x 45 cm | Multiple Colours",
+   "price": "9.00",
+   "seller": "furncom",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/306300326798"
+  },
+  {
+   "id": "184036659041",
+   "title": "Velvet Cushion Marble with Gold Foil Double Sided Cushion Cover – 5 Colours",
+   "price": "6.99",
+   "seller": "stylemybedroom",
+   "sellerFeedback": "99.2",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 9,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/184036659041"
   },
   {
    "id": "398302992340",
@@ -173,11 +173,42 @@
    "url": "https://www.ebay.co.uk/itm/304600422567"
   },
   {
+   "id": "960183124170",
+   "title": "Paoletti Embroidered Floral Square Cushion Cover, Black with Gold Blue Green",
+   "price": "2.24",
+   "seller": "pvrmp27",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "5.21"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 3,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/960183124170",
+   "sold": 0,
+   "available": 1,
+   "specifics": {
+    "Brand": "Paoletti",
+    "Pattern": "Floral",
+    "Type": "Cushion Cover",
+    "Shape": "Square",
+    "Theme": "Floral & Garden",
+    "Style": "Decorative",
+    "Features": "Embroidered",
+    "Material": "Fabric",
+    "Subject": "Floral",
+    "Colour": "Black, Gold, Blue, Green"
+   }
+  },
+  {
    "id": "404280318236",
    "title": "16\" 18\" 20\" Luxury Gold Leaves Soft Cushion Cover Pillow Case Feather Home Decor",
-   "price": "7.49",
+   "price": "6.99",
    "seller": "isasmi5",
-   "sellerFeedback": "99.2",
+   "sellerFeedback": "99.1",
    "postage": [
     "0.00"
    ],
@@ -189,9 +220,9 @@
    "url": "https://www.ebay.co.uk/itm/404280318236"
   },
   {
-   "id": "184036659041",
-   "title": "Velvet Cushion Marble with Gold Foil Double Sided Cushion Cover – 5 Colours",
-   "price": "6.99",
+   "id": "197039551523",
+   "title": "Pair of Decorative Marble Print Velvet Cushion Covers – Gold Foil Design",
+   "price": "11.39",
    "seller": "stylemybedroom",
    "sellerFeedback": "99.2",
    "postage": [
@@ -200,121 +231,9 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 9,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/184036659041"
-  },
-  {
-   "id": "860154241537",
-   "title": "Gold Marble Faux Fur Cushion Cover 43x43cm Luxury Soft Plush Sofa Pillow Case UK",
-   "price": "12.99",
-   "seller": "rushnshop",
-   "sellerFeedback": "99.7",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 23,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/860154241537"
-  },
-  {
-   "id": "327317487849",
-   "title": "Gingerbread Man Christmas Cushion Cover Xmas Throw Pillow Case Sofa Home Decor ",
-   "price": "7.99",
-   "seller": "shomiya",
-   "sellerFeedback": "99.7",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 20,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/327317487849"
-  },
-  {
-   "id": "407311105538",
-   "title": "Jacquard Woven Cushion Cover Black White Gold Squares Skandi Nordic 16-24”",
-   "price": "18.99",
-   "seller": "cushionslondon",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
    "photos": 5,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/407311105538"
-  },
-  {
-   "id": "386509072118",
-   "title": "UK 16\" 18\" 20\" Luxury Gold Feather Plush Cushion Cover Pillow Case Home Decor",
-   "price": "5.29",
-   "seller": "rngservic-77",
-   "sellerFeedback": "99.1",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 12,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/386509072118"
-  },
-  {
-   "id": "336903778630",
-   "title": "Black & Gold Crushed Velvet Wide 4 side Greek Key Border Cushion Cover 20\"",
-   "price": "21.49",
-   "seller": "al-farash",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 9,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336903778630"
-  },
-  {
-   "id": "227575242492",
-   "title": "NEW Christmas Velvet Cushion Cover Sofa Pillow Case Xmas Home Decor Reindeer 18\"",
-   "price": "7.99",
-   "seller": "jazjoz",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 15,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/227575242492"
-  },
-  {
-   "id": "225995924101",
-   "title": "✅Velvet Suede Cushion Covers Black Custom made, Gold Diamantés Greek Medusa",
-   "price": "19.99",
-   "seller": "crystals009",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 4,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/225995924101"
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/197039551523"
   },
   {
    "id": "184477593131",
@@ -333,10 +252,58 @@
    "url": "https://www.ebay.co.uk/itm/184477593131"
   },
   {
-   "id": "115055350264",
-   "title": "18 x18 inch GOLD POLYESTER CUSHION COVER PILLOW CASE HOME SOFA DECOR NEW LUXY",
-   "price": "4.49",
-   "seller": "xox6688",
+   "id": "860109045193",
+   "title": "Set of 2 Gold Marble Faux Fur Cushion Covers 43x43cm Soft Fluffy Pillow Cases",
+   "price": "24.89",
+   "seller": "aratraders",
+   "sellerFeedback": "98.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 9,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/860109045193"
+  },
+  {
+   "id": "336903778630",
+   "title": "Black & Gold Crushed Velvet Wide 4 side Greek Key Border Cushion Cover 20\"",
+   "price": "21.49",
+   "seller": "al-farash",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 9,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/336903778630"
+  },
+  {
+   "id": "297858986245",
+   "title": "Cushion Cover Gold Accent Theme King Queen Gold Abstract Fun Decor For Home",
+   "price": "3.84",
+   "seller": "zozazauk",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 3,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/297858986245"
+  },
+  {
+   "id": "327317487849",
+   "title": "Gingerbread Man Christmas Cushion Cover Xmas Throw Pillow Case Sofa Home Decor ",
+   "price": "7.99",
+   "seller": "shomiya",
    "sellerFeedback": "99.7",
    "postage": [
     "0.00"
@@ -344,26 +311,57 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 4,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/115055350264"
+   "photos": 20,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/327317487849"
   },
   {
-   "id": "820387755039",
-   "title": "Black & Gold Decorative Cushion Cover – 36 × 38 cm",
-   "price": "1.70",
-   "seller": "sldcu_0",
+   "id": "225995924101",
+   "title": "✅Velvet Suede Cushion Covers Black Custom made, Gold Diamantés Greek Medusa",
+   "price": "19.99",
+   "seller": "crystals009",
    "sellerFeedback": "100.0",
    "postage": [
-    "5.21"
+    "0.00"
    ],
    "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
+    "FIXED_PRICE"
    ],
-   "photos": 2,
+   "photos": 4,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/820387755039"
+   "url": "https://www.ebay.co.uk/itm/225995924101"
+  },
+  {
+   "id": "227575242492",
+   "title": "NEW Christmas Velvet Cushion Cover Sofa Pillow Case Xmas Home Decor Reindeer 18\"",
+   "price": "7.99",
+   "seller": "jazjoz",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 15,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/227575242492"
+  },
+  {
+   "id": "305952961466",
+   "title": "16\" Magic Mermaid Pillow Case Reversible Sequin Glitter Sofa Cushion Cover Touch",
+   "price": "4.99",
+   "seller": "dream-team7",
+   "sellerFeedback": "99.9",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 12,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/305952961466"
   },
   {
    "id": "800851377089",
@@ -382,20 +380,36 @@
    "url": "https://www.ebay.co.uk/itm/800851377089"
   },
   {
-   "id": "178309808558",
-   "title": "Stunning Black and Gold Marble Velvet Cushion Covers 45x45cm for Chic Decor",
-   "price": "13.02",
-   "seller": "diamond-marketplace",
-   "sellerFeedback": "99.5",
+   "id": "860154241537",
+   "title": "Gold Marble Faux Fur Cushion Cover 43x43cm Luxury Soft Plush Sofa Pillow Case UK",
+   "price": "8.99",
+   "seller": "rushnshop",
+   "sellerFeedback": "99.7",
    "postage": [
     "0.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 9,
+   "photos": 23,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/860154241537"
+  },
+  {
+   "id": "115055350264",
+   "title": "18 x18 inch GOLD POLYESTER CUSHION COVER PILLOW CASE HOME SOFA DECOR NEW LUXY",
+   "price": "4.49",
+   "seller": "xox6688",
+   "sellerFeedback": "99.7",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 4,
    "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/178309808558"
+   "url": "https://www.ebay.co.uk/itm/115055350264"
   },
   {
    "id": "800550969118",
@@ -494,6 +508,22 @@
    "url": "https://www.ebay.co.uk/itm/336897896766"
   },
   {
+   "id": "407311105538",
+   "title": "Jacquard Woven Cushion Cover Black White Gold Squares Skandi Nordic 16-24”",
+   "price": "18.99",
+   "seller": "cushionslondon",
+   "sellerFeedback": "99.5",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/407311105538"
+  },
+  {
    "id": "333765278376",
    "title": "Black & Gold Velvet Round Greek Key Cushion Cover 17\" 43cm Luxury",
    "price": "21.49",
@@ -508,298 +538,6 @@
    "photos": 9,
    "topRated": false,
    "url": "https://www.ebay.co.uk/itm/333765278376"
-  },
-  {
-   "id": "860109045193",
-   "title": "Set of 2 Gold Marble Faux Fur Cushion Covers 43x43cm Soft Fluffy Pillow Cases",
-   "price": "24.89",
-   "seller": "aratraders",
-   "sellerFeedback": "98.8",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 9,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/860109045193"
-  },
-  {
-   "id": "297858986245",
-   "title": "Cushion Cover Gold Accent Theme King Queen Gold Abstract Fun Decor For Home",
-   "price": "3.84",
-   "seller": "zozazauk",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 3,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/297858986245"
-  },
-  {
-   "id": "203287848618",
-   "title": "Black and Gold Cushion Cover Geometric Foil Printed Throw Pillow Case Pillowcase",
-   "price": "8.02",
-   "seller": "sunray_2016",
-   "sellerFeedback": "99.7",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 11,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/203287848618"
-  },
-  {
-   "id": "285937973428",
-   "title": "Fabulous Foil French Velvet Cushion Covers - Pack of 2 | Sizes: 50x50, 55x55 cm",
-   "price": "5.99",
-   "seller": "oxfordinternationalonline",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/285937973428"
-  },
-  {
-   "id": "820013362175",
-   "title": "UK Reindeer Velvet Christmas Cushion Cover Soft Pillow Cases Xmas Home Decor 18\"",
-   "price": "7.99",
-   "seller": "xsystore",
-   "sellerFeedback": "99.2",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 12,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/820013362175"
-  },
-  {
-   "id": "860063095328",
-   "title": "Elegant Black and Gold Jacquard Velvet Decorative Pillow Cover 18x18in",
-   "price": "22.99",
-   "seller": "mixedbagg",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 7,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/860063095328"
-  },
-  {
-   "id": "257868096690",
-   "title": "Geometric Velvet Cushion Cover Gold LineArt Throw PillowCase 18\"X18\" Pair Option",
-   "price": "8.99",
-   "seller": "ark.trading",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 4,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/257868096690"
-  },
-  {
-   "id": "127978100850",
-   "title": "BLACK AND GOLD SATIN CUSHION COVER",
-   "price": "2.99",
-   "seller": "donnici1999",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "1.50"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 2,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/127978100850"
-  },
-  {
-   "id": "336905394684",
-   "title": "Black & Gold Crushed Velvet Round Greek Keys Baroque Urn Cushion Cover 18\" 45cm",
-   "price": "18.28",
-   "seller": "al-farash",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "3.71"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 3,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336905394684"
-  },
-  {
-   "id": "336897758226",
-   "title": "Black & Gold Velvet All-Over Greek Key Cushion Cover 17\" 43cm Luxury",
-   "price": "19.35",
-   "seller": "al-farash",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 5,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336897758226"
-  },
-  {
-   "id": "365933288976",
-   "title": "Black and Gold Velvet Cushion Covers - Modern Decorative Throw Pillows for Li...",
-   "price": "12.87",
-   "seller": "platinum.marketplace",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 9,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/365933288976"
-  },
-  {
-   "id": "116796397090",
-   "title": "Champagne and Gold Plush Velvet Glitter Cushion Cover Set",
-   "price": "29.99",
-   "seller": "dphekaz",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.99"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/116796397090"
-  },
-  {
-   "id": "286302649091",
-   "title": "Modern Jacquard Cushion Cover Small Large Sofa Luxury Cushion Pack of 1,2,4",
-   "price": "8.89",
-   "seller": "shareefandsons",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 9,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/286302649091"
-  },
-  {
-   "id": "800687310838",
-   "title": "Black Velvet Square Cushion Cover Solid Classic Gold Rope Trim Zip Closure",
-   "price": "11.33",
-   "seller": "nav5389",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 4,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/800687310838"
-  },
-  {
-   "id": "840115019235",
-   "title": "Velvet Decorative Cushion Cover Gold & Black Bee Animal Print Square",
-   "price": "6.52",
-   "seller": "ciao-ciao53",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "5.15"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/840115019235"
-  },
-  {
-   "id": "173644215767",
-   "title": "Meridian Velvet Cushion Covers by Riva Paoletti. 16 Colours To Choose . 55cm ",
-   "price": "9.00",
-   "seller": "pmbfabrics",
-   "sellerFeedback": "99.8",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/173644215767"
-  },
-  {
-   "id": "306267515268",
-   "title": "Paoletti Gilded Palms Embroidered Cushion",
-   "price": "12.50",
-   "seller": "furncom",
-   "sellerFeedback": "99.8",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/306267515268"
-  },
-  {
-   "id": "376266932743",
-   "title": "Modern Jacquard Cushion Cover Small Large Filled Cushion Bed Sofa Decor Pillow",
-   "price": "5.99",
-   "seller": "beststylelinen",
-   "sellerFeedback": "98.8",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/376266932743"
   },
   {
    "id": "256705080080",
@@ -819,9 +557,107 @@
    "url": "https://www.ebay.co.uk/itm/256705080080"
   },
   {
-   "id": "336897785391",
-   "title": "Black & Gold Crushed Velvet Greek Key Border Cushion Cover 24\" 60cm Luxury",
-   "price": "24.61",
+   "id": "820013362175",
+   "title": "UK Reindeer Velvet Christmas Cushion Cover Soft Pillow Cases Xmas Home Decor 18\"",
+   "price": "7.99",
+   "seller": "xsystore",
+   "sellerFeedback": "99.3",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 12,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/820013362175"
+  },
+  {
+   "id": "203287848618",
+   "title": "Black and Gold Cushion Cover Geometric Foil Printed Throw Pillow Case Pillowcase",
+   "price": "8.02",
+   "seller": "sunray_2016",
+   "sellerFeedback": "99.7",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 11,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/203287848618"
+  },
+  {
+   "id": "127978100850",
+   "title": "BLACK AND GOLD SATIN CUSHION COVER",
+   "price": "2.99",
+   "seller": "donnici1999",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "1.50"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 2,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/127978100850"
+  },
+  {
+   "id": "860063095328",
+   "title": "Elegant Black and Gold Jacquard Velvet Decorative Pillow Cover 18x18in",
+   "price": "22.99",
+   "seller": "mixedbagg",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 7,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/860063095328"
+  },
+  {
+   "id": "365933288976",
+   "title": "Black and Gold Velvet Cushion Covers - Modern Decorative Throw Pillows for Li...",
+   "price": "12.87",
+   "seller": "platinum.marketplace",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 9,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/365933288976"
+  },
+  {
+   "id": "285937973428",
+   "title": "Fabulous Foil French Velvet Cushion Covers - Pack of 2 | Sizes: 50x50, 55x55 cm",
+   "price": "5.99",
+   "seller": "oxfordinternationalonline",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/285937973428"
+  },
+  {
+   "id": "336897758226",
+   "title": "Black & Gold Velvet All-Over Greek Key Cushion Cover 17\" 43cm Luxury",
+   "price": "19.35",
    "seller": "al-farash",
    "sellerFeedback": "100.0",
    "postage": [
@@ -830,9 +666,187 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 6,
+   "photos": 5,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/336897785391"
+   "url": "https://www.ebay.co.uk/itm/336897758226"
+  },
+  {
+   "id": "336905394684",
+   "title": "Black & Gold Crushed Velvet Round Greek Keys Baroque Urn Cushion Cover 18\" 45cm",
+   "price": "18.28",
+   "seller": "al-farash",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "3.71"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 3,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/336905394684"
+  },
+  {
+   "id": "376266932743",
+   "title": "Modern Jacquard Cushion Cover Small Large Filled Cushion Bed Sofa Decor Pillow",
+   "price": "5.99",
+   "seller": "beststylelinen",
+   "sellerFeedback": "98.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/376266932743"
+  },
+  {
+   "id": "127960340218",
+   "title": "GOLD AND BLACK SATIN RECTANGLE CUSHION COVER     NO 2",
+   "price": "2.99",
+   "seller": "donnici1999",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "1.40"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 2,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/127960340218"
+  },
+  {
+   "id": "286302649091",
+   "title": "Modern Jacquard Cushion Cover Small Large Sofa Luxury Cushion Pack of 1,2,4",
+   "price": "8.89",
+   "seller": "shareefandsons",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 9,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/286302649091"
+  },
+  {
+   "id": "840115019235",
+   "title": "Velvet Decorative Cushion Cover Gold & Black Bee Animal Print Square",
+   "price": "6.52",
+   "seller": "ciao-ciao53",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "5.15"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/840115019235"
+  },
+  {
+   "id": "116796397090",
+   "title": "Champagne and Gold Plush Velvet Glitter Cushion Cover Set",
+   "price": "29.99",
+   "seller": "dphekaz",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.99"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/116796397090"
+  },
+  {
+   "id": "173644215767",
+   "title": "Meridian Velvet Cushion Covers by Riva Paoletti. 16 Colours To Choose . 55cm ",
+   "price": "9.00",
+   "seller": "pmbfabrics",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/173644215767"
+  },
+  {
+   "id": "366188459927",
+   "title": "Marble Gold Or Silver Foil Velvet Cushion or Covers 18\"x18\" / 45cm - hidden zip",
+   "price": "10.50",
+   "seller": "beddi_38",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 17,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/366188459927"
+  },
+  {
+   "id": "800687310838",
+   "title": "Black Velvet Square Cushion Cover Solid Classic Gold Rope Trim Zip Closure",
+   "price": "11.33",
+   "seller": "nav5389",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+   ],
+   "photos": 4,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/800687310838"
+  },
+  {
+   "id": "174313755966",
+   "title": "TreeWool, (2 Pack) Golden Foil Diamond Accent Cotton Decorative Cushion Covers",
+   "price": "14.99",
+   "seller": "treewool_store",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/174313755966"
+  },
+  {
+   "id": "336913785564",
+   "title": "Medusa head Inspired Black Jute And Gold Velvet Greek Key And Head Pillow Cover",
+   "price": "20.42",
+   "seller": "al-farash",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/336913785564"
   }
  ]
 }
