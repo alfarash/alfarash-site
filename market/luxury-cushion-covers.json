@@ -1,7 +1,23 @@
 {
  "search": "luxury cushion covers",
- "total": 9375,
+ "total": 9378,
  "results": [
+  {
+   "id": "860183296375",
+   "title": "Luxury cushion covers, made with premium quality fur and suede.",
+   "price": "15.00",
+   "seller": "ecosave9",
+   "sellerFeedback": "100.0",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/860183296375"
+  },
   {
    "id": "286678450330",
    "title": "Luxury Jacquard Cushion Covers and Filled Cushions Small 18x18 OR Large 23x23",
@@ -19,74 +35,10 @@
    "url": "https://www.ebay.co.uk/itm/286678450330"
   },
   {
-   "id": "224467973713",
-   "title": "Cushion Covers Pack of 2 Plain Dyed 100% Cotton Home Sofa Car Décor 16''18''20''",
-   "price": "7.20",
-   "seller": "ukbedding",
-   "sellerFeedback": "99.4",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 16,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/224467973713"
-  },
-  {
-   "id": "383257468763",
-   "title": "SET OF 4 Super Soft Teddy Bear Cushion Covers Fleece Faux Fur 60x60cm 24\"x24\"",
-   "price": "16.79",
-   "seller": "viceroybedding",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 3,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/383257468763"
-  },
-  {
-   "id": "267820643129",
-   "title": "Extra Filled Large Cushion With Covers Pack of 2 4 6 Sofa Bed Square Pillows 18\"",
-   "price": "19.99",
-   "seller": "ah-homeware",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 14,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/267820643129"
-  },
-  {
-   "id": "366550720554",
-   "title": "16 Colours Luxury Crushed Velvet Cushion Covers 45x45cm | 18x18\" Hidden Zip",
-   "price": "4.99",
-   "seller": "myras_home",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/366550720554"
-  },
-  {
-   "id": "126913562045",
-   "title": "OHS Piped Edge Cushion Covers Matte Velvet Soft Luxury 2/4 Square Pillowcases",
-   "price": "14.99",
-   "seller": "onlinehomeshop",
+   "id": "176334572965",
+   "title": "Cushion Covers Throw Luxurious Jacquard Sofa Pillow Cases - 17\"x17\" Inch Eden",
+   "price": "12.99",
+   "seller": "ooble_home",
    "sellerFeedback": "99.7",
    "postage": [
     "0.00"
@@ -94,9 +46,9 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 8,
+   "photos": 1,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/126913562045"
+   "url": "https://www.ebay.co.uk/itm/176334572965"
   },
   {
    "id": "168357893992",
@@ -115,6 +67,70 @@
    "url": "https://www.ebay.co.uk/itm/168357893992"
   },
   {
+   "id": "126913562045",
+   "title": "OHS Piped Edge Cushion Covers Matte Velvet Soft Luxury 2/4 Square Pillowcases",
+   "price": "14.99",
+   "seller": "onlinehomeshop",
+   "sellerFeedback": "99.7",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 8,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/126913562045"
+  },
+  {
+   "id": "366550720554",
+   "title": "16 Colours Luxury Crushed Velvet Cushion Covers 45x45cm | 18x18\" Hidden Zip",
+   "price": "4.99",
+   "seller": "myras_home",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/366550720554"
+  },
+  {
+   "id": "391680517553",
+   "title": "4 x Luxury Plain Chenille Cushion Covers Soft Cover 43 x 43cm 17x17\" ",
+   "price": "6.99",
+   "seller": "adorehome",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 2,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/391680517553"
+  },
+  {
+   "id": "198735763144",
+   "title": "pack of 6 Luxury Velvet Cushion Covers Quilted Chevron Sofa Throw Pillow Covers",
+   "price": "8.99",
+   "seller": "hafa280",
+   "sellerFeedback": "99.7",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 14,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/198735763144"
+  },
+  {
    "id": "267812521910",
    "title": "Pack of 4 Velvet Cushion Covers Sofa Throw Decorative 18 x 18\" Square Cushion",
    "price": "9.67",
@@ -131,9 +147,41 @@
    "url": "https://www.ebay.co.uk/itm/267812521910"
   },
   {
+   "id": "397160958718",
+   "title": "Luxury Velvet Cushion Covers Pack of 2 Pillowcases – Handmade in UK – Soft Decor",
+   "price": "22.99",
+   "seller": "velveton",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 5,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/397160958718"
+  },
+  {
+   "id": "361768883006",
+   "title": "Cushion Covers Plain Dyed 100% Cotton Zip Pipe Edge Home Sofa Decor 16''18''20''",
+   "price": "3.45",
+   "seller": "ukbedding",
+   "sellerFeedback": "99.3",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 18,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/361768883006"
+  },
+  {
    "id": "225202776671",
    "title": "Tartan Check Cushion Covers Luxury 100% Cotton Cushion Covers 18\"x18\", 24\"x24\"",
-   "price": "4.49",
+   "price": "5.79",
    "seller": "luckyschoolwear",
    "sellerFeedback": "99.7",
    "postage": [
@@ -163,59 +211,27 @@
    "url": "https://www.ebay.co.uk/itm/126103768789"
   },
   {
-   "id": "198735763144",
-   "title": "pack of 6 Luxury Velvet Cushion Covers Quilted Chevron Sofa Throw Pillow Covers",
-   "price": "13.99",
-   "seller": "hafa280",
-   "sellerFeedback": "99.7",
+   "id": "224467973713",
+   "title": "Cushion Covers Pack of 2 Plain Dyed 100% Cotton Home Sofa Car Décor 16''18''20''",
+   "price": "7.49",
+   "seller": "ukbedding",
+   "sellerFeedback": "99.3",
    "postage": [
     "0.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 14,
+   "photos": 16,
    "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/198735763144"
+   "url": "https://www.ebay.co.uk/itm/224467973713"
   },
   {
-   "id": "224354900916",
-   "title": "New French Velvet Piped Cushion Covers Luxury Plain Cushion Covers 18x18\", 24x24",
-   "price": "5.99",
-   "seller": "luckyschoolwear",
-   "sellerFeedback": "99.7",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 9,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/224354900916"
-  },
-  {
-   "id": "391680517553",
-   "title": "4 x Luxury Plain Chenille Cushion Covers Soft Cover 43 x 43cm 17x17\" ",
-   "price": "6.99",
-   "seller": "adorehome",
-   "sellerFeedback": "99.8",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 2,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/391680517553"
-  },
-  {
-   "id": "176334572965",
-   "title": "Cushion Covers Throw Luxurious Jacquard Sofa Pillow Cases - 17\"x17\" Inch Eden",
-   "price": "12.99",
-   "seller": "ooble_home",
-   "sellerFeedback": "99.7",
+   "id": "324441901363",
+   "title": "Set of  2 Luxury Silver Grey Chenille Cream  Circles 18\" Cushion Covers £11.99",
+   "price": "11.99",
+   "seller": "mapletextiles1975",
+   "sellerFeedback": "99.6",
    "postage": [
     "0.00"
    ],
@@ -224,7 +240,247 @@
    ],
    "photos": 1,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/176334572965"
+   "url": "https://www.ebay.co.uk/itm/324441901363"
+  },
+  {
+   "id": "267820643129",
+   "title": "Extra Filled Large Cushion With Covers Pack of 2 4 6 Sofa Bed Square Pillows 18\"",
+   "price": "19.99",
+   "seller": "ah-homeware",
+   "sellerFeedback": "99.5",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 14,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/267820643129"
+  },
+  {
+   "id": "354127247627",
+   "title": "Luxury Crushed Velvet Band & Faux Silk Cushion Covers 43x43 50x50 55x55 60x60 CM",
+   "price": "4.20",
+   "seller": "millprice-outlet",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/354127247627"
+  },
+  {
+   "id": "267779338573",
+   "title": "Pack of 4 Stripe Velvet Cushion Covers Decorative 18 x 18 Square Cushions Throw",
+   "price": "10.99",
+   "seller": "supremebedding",
+   "sellerFeedback": "99.5",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 12,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/267779338573"
+  },
+  {
+   "id": "287476447670",
+   "title": "Luxury Crushed Velvet Cushion Covers Size 45x45cm | 18x18\" Zipped -15 Colours",
+   "price": "4.99",
+   "seller": "cushioncovershop",
+   "sellerFeedback": "98.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/287476447670"
+  },
+  {
+   "id": "404768379551",
+   "title": "Set Of 4 Crushed Velvet Cushion Covers OR Filled Cushions 18x18\" Sofa Pillows UK",
+   "price": "12.99",
+   "seller": "eastparkbedding",
+   "sellerFeedback": "99.5",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/404768379551"
+  },
+  {
+   "id": "287592523810",
+   "title": "Luxury Corduroy Cushion Covers Large 55x55cm | 22x22\" Hidden Zip-Super Soft",
+   "price": "5.99",
+   "seller": "cushioncovershop",
+   "sellerFeedback": "98.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/287592523810"
+  },
+  {
+   "id": "192872277509",
+   "title": "18\" OR 24\" LARGE LUXURY SOFT TEDDY BEAR FLEECE CUSHION COVER, PAD FILL OPTION",
+   "price": "24.99",
+   "seller": "siplanb10",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 4,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/192872277509"
+  },
+  {
+   "id": "204124739127",
+   "title": "Crushed Velvet Cushion Covers Sofa Throw Pillowcases Cover 16\" 18\" 20\" 22\" 24\"",
+   "price": "5.94",
+   "seller": "4kdeals",
+   "sellerFeedback": "99.1",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 8,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/204124739127"
+  },
+  {
+   "id": "322271856735",
+   "title": "Colorful Plain Dyed Cushion Cover 100% Cotton Home Sofa Décor Size 16\" 18\" 20\" ",
+   "price": "2.99",
+   "seller": "chilimilii",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 13,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/322271856735"
+  },
+  {
+   "id": "113757892411",
+   "title": "Set of 4 Cushion Covers Grey Silver Luxury Soft Faux Fur 18 inch 45 cm Square",
+   "price": "12.99",
+   "seller": "redrainbow111",
+   "sellerFeedback": "99.9",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/113757892411"
+  },
+  {
+   "id": "224312116881",
+   "title": "Faux Fur Cushion Covers Luxury Plain Cushion Covers 43cmx43cm Double Sided Fur",
+   "price": "4.99",
+   "seller": "luckyschoolwear",
+   "sellerFeedback": "99.7",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 12,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/224312116881"
+  },
+  {
+   "id": "126313934259",
+   "title": "Pack of 4 Cushion Covers 18x18\" Velvet Filled Cushions Square Sofa Pillows Cases",
+   "price": "7.64",
+   "seller": "ah-homeware2015",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 15,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/126313934259"
+  },
+  {
+   "id": "365599555648",
+   "title": "Pack of 4 Stripe Velvet Cushion Covers Decorative 18 x 18 Square Cushions Throw",
+   "price": "11.69",
+   "seller": "theyorkshirebeddingcompanyltd",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 23,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/365599555648"
+  },
+  {
+   "id": "383257468763",
+   "title": "SET OF 4 Super Soft Teddy Bear Cushion Covers Fleece Faux Fur 60x60cm 24\"x24\"",
+   "price": "16.79",
+   "seller": "viceroybedding",
+   "sellerFeedback": "99.5",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 3,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/383257468763"
+  },
+  {
+   "id": "318675300580",
+   "title": "Plush Velvet Cushion Cover Sofa Pillow Case Soft Cushion Cover 16 18 20 22 24\"",
+   "price": "4.39",
+   "seller": "a6h_24",
+   "sellerFeedback": "99.5",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 17,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/318675300580"
   },
   {
    "id": "285839088839",
@@ -259,105 +515,9 @@
    "url": "https://www.ebay.co.uk/itm/176330584314"
   },
   {
-   "id": "397160958718",
-   "title": "Luxury Velvet Cushion Covers Pack of 2 Pillowcases – Handmade in UK – Soft Decor",
-   "price": "22.99",
-   "seller": "velveton",
-   "sellerFeedback": "99.8",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 5,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/397160958718"
-  },
-  {
-   "id": "287476447670",
-   "title": "Luxury Crushed Velvet Cushion Covers Size 45x45cm | 18x18\" Zipped -15 Colours",
-   "price": "4.99",
-   "seller": "cushioncovershop",
-   "sellerFeedback": "98.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/287476447670"
-  },
-  {
-   "id": "267779338573",
-   "title": "Pack of 4 Stripe Velvet Cushion Covers Decorative 18 x 18 Square Cushions Throw",
-   "price": "9.34",
-   "seller": "supremebedding",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 12,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/267779338573"
-  },
-  {
-   "id": "322271856735",
-   "title": "Colorful Plain Dyed Cushion Cover 100% Cotton Home Sofa Décor Size 16\" 18\" 20\" ",
-   "price": "3.99",
-   "seller": "chilimilii",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 13,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/322271856735"
-  },
-  {
-   "id": "113757892411",
-   "title": "Set of 4 Cushion Covers Grey Silver Luxury Soft Faux Fur 18 inch 45 cm Square",
-   "price": "12.99",
-   "seller": "redrainbow111",
-   "sellerFeedback": "99.9",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/113757892411"
-  },
-  {
-   "id": "287592523810",
-   "title": "Luxury Corduroy Cushion Covers Large 55x55cm | 22x22\" Hidden Zip-Super Soft",
+   "id": "224354900916",
+   "title": "New French Velvet Piped Cushion Covers Luxury Plain Cushion Covers 18x18\", 24x24",
    "price": "5.99",
-   "seller": "cushioncovershop",
-   "sellerFeedback": "98.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/287592523810"
-  },
-  {
-   "id": "224312116881",
-   "title": "Faux Fur Cushion Covers Luxury Plain Cushion Covers 43cmx43cm Double Sided Fur",
-   "price": "4.99",
    "seller": "luckyschoolwear",
    "sellerFeedback": "99.7",
    "postage": [
@@ -366,79 +526,15 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 12,
+   "photos": 9,
    "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/224312116881"
+   "url": "https://www.ebay.co.uk/itm/224354900916"
   },
   {
-   "id": "361768883006",
-   "title": "Cushion Covers Plain Dyed 100% Cotton Zip Pipe Edge Home Sofa Decor 16''18''20''",
-   "price": "3.95",
-   "seller": "ukbedding",
-   "sellerFeedback": "99.4",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 18,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/361768883006"
-  },
-  {
-   "id": "354127247627",
-   "title": "Luxury Crushed Velvet Band & Faux Silk Cushion Covers 43x43 50x50 55x55 60x60 CM",
-   "price": "3.69",
-   "seller": "millprice-outlet",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/354127247627"
-  },
-  {
-   "id": "192872277509",
-   "title": "18\" OR 24\" LARGE LUXURY SOFT TEDDY BEAR FLEECE CUSHION COVER, PAD FILL OPTION",
-   "price": "24.99",
-   "seller": "siplanb10",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 4,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/192872277509"
-  },
-  {
-   "id": "126313934259",
-   "title": "Pack of 4 Cushion Covers 18x18\" Velvet Filled Cushions Square Sofa Pillows Cases",
-   "price": "10.62",
-   "seller": "ah-homeware2015",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 15,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/126313934259"
-  },
-  {
-   "id": "404768379551",
-   "title": "Set Of 4 Crushed Velvet Cushion Covers OR Filled Cushions 18x18\" Sofa Pillows UK",
-   "price": "12.99",
-   "seller": "eastparkbedding",
+   "id": "267750290116",
+   "title": "Plain Dyed Cushion Cover 2 & 4 Pack Cotton Feel Sofa Bed Decor Cushion Covers",
+   "price": "3.59",
+   "seller": "supremebedding",
    "sellerFeedback": "99.5",
    "postage": [
     "0.00"
@@ -446,74 +542,9 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 1,
+   "photos": 14,
    "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/404768379551"
-  },
-  {
-   "id": "321001307231",
-   "title": "Cushion Pads Duck Feather/Hollowfiber Inner Insert Fillers Scatters Deep Filled",
-   "price": "6.79",
-   "seller": "ukbedding",
-   "sellerFeedback": "99.4",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 10,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/321001307231"
-  },
-  {
-   "id": "168676502267",
-   "title": "Set of 6 Chocolate brown luxury cushion covers Floral | herringbone",
-   "price": "63.10",
-   "seller": "cottesmorehome",
-   "sellerFeedback": "99.4",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE",
-    "BEST_OFFER"
-   ],
-   "photos": 6,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/168676502267"
-  },
-  {
-   "id": "324441901363",
-   "title": "Set of  2 Luxury Silver Grey Chenille Cream  Circles 18\" Cushion Covers £11.99",
-   "price": "11.99",
-   "seller": "mapletextiles1975",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 1,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/324441901363"
-  },
-  {
-   "id": "255766046089",
-   "title": "Luxury Velvet Chenille Striped Cushion Covers Soft Square Designs 18 inches",
-   "price": "12.49",
-   "seller": "zbw.impex.ltd",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 8,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/255766046089"
+   "url": "https://www.ebay.co.uk/itm/267750290116"
   },
   {
    "id": "356644874687",
@@ -532,57 +563,9 @@
    "url": "https://www.ebay.co.uk/itm/356644874687"
   },
   {
-   "id": "365599555648",
-   "title": "Pack of 4 Stripe Velvet Cushion Covers Decorative 18 x 18 Square Cushions Throw",
-   "price": "12.99",
-   "seller": "theyorkshirebeddingcompanyltd",
-   "sellerFeedback": "99.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 23,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/365599555648"
-  },
-  {
-   "id": "204124739127",
-   "title": "Crushed Velvet Cushion Covers Sofa Throw Pillowcases Cover 16\" 18\" 20\" 22\" 24\"",
-   "price": "5.94",
-   "seller": "4kdeals",
-   "sellerFeedback": "99.1",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 8,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/204124739127"
-  },
-  {
-   "id": "267750290116",
-   "title": "Plain Dyed Cushion Cover 2 & 4 Pack Cotton Feel Sofa Bed Decor Cushion Covers",
-   "price": "5.39",
-   "seller": "supremebedding",
-   "sellerFeedback": "99.5",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 14,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/267750290116"
-  },
-  {
    "id": "355833855773",
    "title": "Crushed Velvet Cushion Covers Luxury Plain 17X17 20X20 22X22 24X24 IN Pack Of 4",
-   "price": "5.99",
+   "price": "4.99",
    "seller": "millprice-outlet",
    "sellerFeedback": "99.6",
    "postage": [
@@ -596,26 +579,10 @@
    "url": "https://www.ebay.co.uk/itm/355833855773"
   },
   {
-   "id": "287115316194",
-   "title": "Luxury Plain Velvet Cushion Covers Small 40X40cm | 16x16\" Hidden Zip-Super Soft",
-   "price": "3.99",
-   "seller": "cushioncovershop",
-   "sellerFeedback": "98.6",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 4,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/287115316194"
-  },
-  {
-   "id": "406568508371",
-   "title": "Crushed Velvet Cushion Decorative Sofas Pillows Cover or Large Plain All Sizes",
-   "price": "17.98",
-   "seller": "ai470996",
+   "id": "116081484155",
+   "title": "Pack 2, 4 Cushion Covers 18x18\" Velvet Filled Cushions Square Sofa Pillows Cases",
+   "price": "12.99",
+   "seller": "moonlightbedding",
    "sellerFeedback": "99.8",
    "postage": [
     "0.00"
@@ -623,16 +590,32 @@
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 14,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/406568508371"
+   "photos": 15,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/116081484155"
   },
   {
-   "id": "390821032230",
-   "title": "Luxury Faux Pleated Cushion Covers 18\" x 18\" (45x45cm)  7 Colours, Zip Fastening",
-   "price": "14.99",
-   "seller": "sterling_mill",
-   "sellerFeedback": "100.0",
+   "id": "358609367054",
+   "title": "Luxury Plush Cushion Covers Set of 2 Sofa Pillow Cases Soft Cushion Cover 18x18\"",
+   "price": "7.95",
+   "seller": "strogem_22",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 12,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/358609367054"
+  },
+  {
+   "id": "176334574834",
+   "title": "Cushion Covers Throw Two Tone Woven Sofa Pillow Cases - 17\"x17\" Inch Herringbone",
+   "price": "10.99",
+   "seller": "ooble_home",
+   "sellerFeedback": "99.7",
    "postage": [
     "0.00"
    ],
@@ -641,87 +624,39 @@
    ],
    "photos": 1,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/390821032230"
+   "url": "https://www.ebay.co.uk/itm/176334574834"
   },
   {
-   "id": "178359848209",
-   "title": "Luxury Dyed Cushion Cover 2 & 4 Pack Cotton Feel Sofa Bed Decor Cushion Covers",
-   "price": "3.39",
-   "seller": "bournlondon",
-   "sellerFeedback": "99.7",
+   "id": "364960572966",
+   "title": "Pack of 4 Plush Velvet Cushion Covers Throw Decorative 18\"x18\" Square Cushions",
+   "price": "10.79",
+   "seller": "theyorkshirebeddingcompanyltd",
+   "sellerFeedback": "99.6",
    "postage": [
     "0.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 12,
+   "photos": 24,
    "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/178359848209"
+   "url": "https://www.ebay.co.uk/itm/364960572966"
   },
   {
-   "id": "377553916922",
-   "title": "Velvet Cushions Filled 18\"x18\" PACK of 2,4,6 Large Square Bed Sofa Decor Pillows",
-   "price": "12.31",
-   "seller": "kensingtonhomeware",
-   "sellerFeedback": "99.8",
+   "id": "366457132716",
+   "title": "Plain Dyed Cushion Cover 2 & 4 Pack Cotton Feel Sofa Bed Decor Cushion Covers",
+   "price": "3.59",
+   "seller": "theyorkshirebeddingcompanyltd",
+   "sellerFeedback": "99.6",
    "postage": [
     "0.00"
    ],
    "buyingOptions": [
     "FIXED_PRICE"
    ],
-   "photos": 23,
+   "photos": 14,
    "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/377553916922"
-  },
-  {
-   "id": "393543379125",
-   "title": "Plush Velvet Cushion Covers Sofa Pillow Cases Soft Cushion Cover 16 18 20 22 24\"",
-   "price": "7.94",
-   "seller": "lightningdeals2016",
-   "sellerFeedback": "99.2",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 5,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/393543379125"
-  },
-  {
-   "id": "287752866020",
-   "title": "Pack of 4 Silver/Grey-Luxury Embossed Floral Satin Flock Cushion Covers 17\" 43cm",
-   "price": "12.94",
-   "seller": "shaunmac27",
-   "sellerFeedback": "100.0",
-   "postage": [
-    "2.94"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 4,
-   "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/287752866020"
-  },
-  {
-   "id": "223767063156",
-   "title": "Crushed Velvet Cushion Covers Luxury Plain Cushion Covers 18x18\", 24x24, 30x30\"",
-   "price": "6.49",
-   "seller": "luckyschoolwear",
-   "sellerFeedback": "99.7",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 12,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/223767063156"
+   "url": "https://www.ebay.co.uk/itm/366457132716"
   },
   {
    "id": "398322261650",
@@ -740,9 +675,57 @@
    "url": "https://www.ebay.co.uk/itm/398322261650"
   },
   {
+   "id": "371677175705",
+   "title": "Luxury Shaggy Chenille Woven Cushion Cover Suede Back Scatter Decorative Pillow",
+   "price": "12.95",
+   "seller": "onestop_beddingshop",
+   "sellerFeedback": "99.4",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/371677175705"
+  },
+  {
+   "id": "193659918535",
+   "title": "New Luxury Jacquard Cushion Covers & Filled Cushions 18x18 Small OR 23x23 Large",
+   "price": "12.08",
+   "seller": "beddingworld1",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 1,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/193659918535"
+  },
+  {
+   "id": "376416128471",
+   "title": "Cushion Covers Cord Jumbo Plain Super Soft Luxury 18x18\" 45x45cm - 10 + Colours",
+   "price": "3.51",
+   "seller": "kensingtonhomeware",
+   "sellerFeedback": "99.8",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 14,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/376416128471"
+  },
+  {
    "id": "203582821204",
    "title": "Plush Velvet Cushion Covers Throw Pillow Cases Sofa Home Decor 16 18 20\" 22\" 24\"",
-   "price": "4.94",
+   "price": "5.94",
    "seller": "4kdeals",
    "sellerFeedback": "99.1",
    "postage": [
@@ -756,43 +739,59 @@
    "url": "https://www.ebay.co.uk/itm/203582821204"
   },
   {
-   "id": "377614479177",
-   "title": "Pack of 4 Plush Velvet Cushion Covers Filled Cushions 18''x18'' Sofa Pillows Uk",
-   "price": "7.37",
-   "seller": "kensingtonhomeware",
-   "sellerFeedback": "99.8",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 12,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/377614479177"
-  },
-  {
-   "id": "354609853342",
-   "title": "4 Velvet Diamante Cushion Covers Throw Pillow Cases Solid Plush Home Decor",
-   "price": "15.95",
-   "seller": "les4ultd",
-   "sellerFeedback": "99.0",
-   "postage": [
-    "0.00"
-   ],
-   "buyingOptions": [
-    "FIXED_PRICE"
-   ],
-   "photos": 12,
-   "topRated": true,
-   "url": "https://www.ebay.co.uk/itm/354609853342"
-  },
-  {
-   "id": "920188593286",
-   "title": "New Dunelm Geometric Zip cushion covers Cream/Beige/champagne 16 inch square x 2",
-   "price": "3.31",
-   "seller": "gofastermillie",
+   "id": "287752866020",
+   "title": "Pack of 4 Silver/Grey-Luxury Embossed Floral Satin Flock Cushion Covers 17\" 43cm",
+   "price": "12.94",
+   "seller": "shaunmac27",
    "sellerFeedback": "100.0",
+   "postage": [
+    "2.94"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 4,
+   "topRated": false,
+   "url": "https://www.ebay.co.uk/itm/287752866020"
+  },
+  {
+   "id": "356093793210",
+   "title": "Luxury Crushed Velvet Band Cushion Covers Faux Silk 17X17 20X20 22X22 24X24 in",
+   "price": "5.99",
+   "seller": "millprice-outlet",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 7,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/356093793210"
+  },
+  {
+   "id": "127825557839",
+   "title": "Large Velvet Cushion Cover 18x18 Extra Filled Cushions Square Pillow 3,4,5,8 Set",
+   "price": "16.99",
+   "seller": "ah-homeware2015",
+   "sellerFeedback": "99.6",
+   "postage": [
+    "0.00"
+   ],
+   "buyingOptions": [
+    "FIXED_PRICE"
+   ],
+   "photos": 9,
+   "topRated": true,
+   "url": "https://www.ebay.co.uk/itm/127825557839"
+  },
+  {
+   "id": "168676502267",
+   "title": "Set of 6 Chocolate brown luxury cushion covers Floral | herringbone",
+   "price": "63.10",
+   "seller": "cottesmorehome",
+   "sellerFeedback": "99.4",
    "postage": [
     "2.94"
    ],
@@ -800,9 +799,9 @@
     "FIXED_PRICE",
     "BEST_OFFER"
    ],
-   "photos": 5,
+   "photos": 6,
    "topRated": false,
-   "url": "https://www.ebay.co.uk/itm/920188593286"
+   "url": "https://www.ebay.co.uk/itm/168676502267"
   }
  ]
 }
